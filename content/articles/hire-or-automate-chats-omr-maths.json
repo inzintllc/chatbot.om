@@ -1,0 +1,452 @@
+{
+  "id": "article-2026-10-15-second-employee-or-second-brain",
+  "taskId": "2026-10-15-second-employee-or-second-brain",
+  "slug": "hire-or-automate-chats-omr-maths",
+  "title": "Hire a Second Employee or Automate the Chats?",
+  "seoTitle": "Hire or Automate? The OMR Maths of a Second Employee",
+  "excerpt": "A full-time hire costs about OMR 4,466 in the first year. Before you post the job, count how many of last night's 74 chats actually needed a person.",
+  "seoDescription": "Hire or automate your WhatsApp chats? A composite Al Mouj boutique compares a year of salary and social protection against a chat setup, in real OMR.",
+  "series": "Small Team Playbook",
+  "category": "Running a Small Team",
+  "topic": "A Second Employee or a Second Brain?",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-15",
+  "modifiedDate": "2026-10-15",
+  "reviewedDate": "2026-10-15",
+  "reviewBy": "2027-01-13",
+  "status": "published",
+  "tags": [
+    "Small Team Playbook",
+    "hiring",
+    "automation",
+    "WhatsApp",
+    "costs",
+    "boutiques",
+    "staffing"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#0a0b0f\"/><stop offset=\"0.55\" stop-color=\"#1a1d24\"/><stop offset=\"1\" stop-color=\"#d4ff4f\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#bg)\"/><rect x=\"270\" y=\"30\" width=\"95\" height=\"172\" rx=\"14\" fill=\"#0a0b0f\" stroke=\"#f4f4f0\" stroke-width=\"3\"/><rect x=\"278\" y=\"46\" width=\"79\" height=\"140\" rx=\"6\" fill=\"#1a1d24\"/><rect x=\"286\" y=\"58\" width=\"50\" height=\"16\" rx=\"6\" fill=\"#79e0c8\"/><rect x=\"300\" y=\"82\" width=\"50\" height=\"16\" rx=\"6\" fill=\"#e8c07c\"/><rect x=\"286\" y=\"106\" width=\"56\" height=\"16\" rx=\"6\" fill=\"#79e0c8\"/><rect x=\"296\" y=\"130\" width=\"54\" height=\"16\" rx=\"6\" fill=\"#e8c07c\"/><rect x=\"286\" y=\"154\" width=\"44\" height=\"16\" rx=\"6\" fill=\"#79e0c8\"/><circle cx=\"362\" cy=\"36\" r=\"21\" fill=\"#d4ff4f\" stroke=\"#0a0b0f\" stroke-width=\"3\"/><text x=\"362\" y=\"43\" text-anchor=\"middle\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"19\" fill=\"#0a0b0f\">74</text><text x=\"24\" y=\"92\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"38\" fill=\"#d4ff4f\">OMR 4,466</text><text x=\"24\" y=\"122\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#f4f4f0\">Hire or automate the chats?</text></svg>",
+  "sources": [
+    {
+      "id": "mol-labour-law",
+      "label": "Ministry of Labour: Labour Law text (working hours, annual leave)",
+      "url": "https://www.mol.gov.om/Laborlaw",
+      "kind": "oman-official"
+    },
+    {
+      "id": "muscat-daily-spf",
+      "label": "Muscat Daily: Employers to bear 1% contribution for sick leave insurance, says SPF (July 2026)",
+      "url": "https://www.muscatdaily.com/2026/07/20/employers-to-bear-1-contribution-for-sick-leave-insurance-spf/",
+      "kind": "media"
+    },
+    {
+      "id": "observer-sick-leave",
+      "label": "Oman Observer: Sick leave insurance branch launch and employer contribution (July 2026)",
+      "url": "https://www.omanobserver.om/ampArticle/1193074",
+      "kind": "media"
+    },
+    {
+      "id": "gulfnews-min-wage",
+      "label": "Gulf News: Oman sets minimum wage of 325 riyals for every citizen",
+      "url": "https://gulfnews.com/world/gulf/oman/oman-sets-minimum-wage-of-325-riyals-for-every-citizen-1.74044968",
+      "kind": "media"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "At 11:40 one night in September, Muzna had 74 unread chats and one idea: hire someone. A full-time hire at the national minimum wage costs about OMR 4,466 in the first year, and that is before the hours you spend training them. So before you decide whether to hire or automate, find out which of those 74 messages actually needed a person."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-night-the-phone-won",
+      "text": "The night the phone won"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Muzna is a composite example, built from owners like her. She runs an abaya and kaftan boutique in Al Mouj with a team of three: herself, a tailor, and her cousin at weekends. Most enquiries come in on WhatsApp, then Instagram, then the website."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Tourist season has started, so the chats now come in English as well as Arabic, and often late. A typical one is a voice note, \"السلام عليكم، الكفتان الأخضر موجود ميديم؟\", followed by a text: \"delivery to Seeb kam?\" Each one takes a minute to answer. Seventy of them take the whole evening."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "So she priced the obvious fix. When she later sorted the chats themselves, the maths changed. More on that further down."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-a-second-employee-really-costs",
+      "text": "What a second employee really costs"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The salary is only the start. For Omani nationals, the minimum monthly wage is "
+        },
+        {
+          "text": "OMR 325",
+          "href": "https://gulfnews.com/world/gulf/oman/oman-sets-minimum-wage-of-325-riyals-for-every-citizen-1.74044968"
+        },
+        {
+          "text": ". On top of that, you as the employer pay about "
+        },
+        {
+          "text": "14.5 percent of the wage to the Social Protection Fund",
+          "href": "https://www.muscatdaily.com/2026/07/20/employers-to-bear-1-contribution-for-sick-leave-insurance-spf/"
+        },
+        {
+          "text": ". It reached that total once the "
+        },
+        {
+          "text": "sick leave insurance branch started in July 2026",
+          "href": "https://www.omanobserver.om/ampArticle/1193074"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Salary: ",
+            "strong": true
+          },
+          {
+            "text": "OMR 325 a month at the minimum, and more if you want to keep someone good."
+          }
+        ],
+        [
+          {
+            "text": "Social protection: ",
+            "strong": true
+          },
+          {
+            "text": "about OMR 47 a month on that salary. You pay it on top. It does not come out of their pay."
+          }
+        ],
+        [
+          {
+            "text": "Training: ",
+            "strong": true
+          },
+          {
+            "text": "your own hours in the first month, teaching prices, sizes, delivery areas and how you like customers spoken to."
+          }
+        ],
+        [
+          {
+            "text": "Leave: ",
+            "strong": true
+          },
+          {
+            "text": "at least 30 days of paid annual leave a year under the "
+          },
+          {
+            "text": "Labour Law",
+            "href": "https://www.mol.gov.om/Laborlaw"
+          },
+          {
+            "text": "."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "An expatriate hire may take a lower salary. But work permit and visa fees, a medical test and often housing come on top, so add up the full cost before you assume it is cheaper."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "A second employee works 40 hours a week, but your customers message you through all 168."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-hours-problem",
+      "text": "The hours problem"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The Labour Law limits normal work to eight hours a day and 40 a week. That is fair, and it is also the catch. Muzna's new hire would work roughly 10am to 6pm, which is when Muzna is already in the shop with her phone in reach."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Her worst hours come after 9pm. The shop is shut, tourists are planning tomorrow, and regular customers are scrolling Instagram after dinner. A second employee does nothing for those hours unless she pays for a second shift."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-the-chats-actually-were",
+      "text": "What the chats actually were"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Before she interviewed anyone, Muzna scrolled back through one week of chats and sorted them into three piles. Her rough count (composite figures):"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "About two thirds were repeats: ",
+            "strong": true
+          },
+          {
+            "text": "price, sizes, \"do you have it in black\", location, opening hours, delivery to Seeb or Sohar."
+          }
+        ],
+        [
+          {
+            "text": "About one in five were sales in progress: ",
+            "strong": true
+          },
+          {
+            "text": "a family order for a wedding, a custom length, a payment."
+          }
+        ],
+        [
+          {
+            "text": "The rest needed her personally: ",
+            "strong": true
+          },
+          {
+            "text": "a complaint about a hem, a supplier, a regular who only trusts her."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The repeats were the ones eating her nights, and answering them needed nobody on a contract. If you want help sorting your own, here is a guide to "
+        },
+        {
+          "text": "the chats only you should answer",
+          "href": "/blog/which-chats-only-you-should-answer/"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "hire-or-automate-the-year-in-omr",
+      "text": "Hire or automate: the year in OMR"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Here are both options side by side. The hire column uses the figures above. The automation column uses a made-up quote for this example, not any provider's real price, so swap in the quote you actually get."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Composite boutique, year one. Redo it with your own salary and your own quote.",
+      "headers": [
+        "Cost line",
+        "Second employee (full time)",
+        "Chat automation (example quote)"
+      ],
+      "rows": [
+        [
+          "Monthly cost",
+          "OMR 325 x 12 = OMR 3,900",
+          "OMR 50 x 12 = OMR 600"
+        ],
+        [
+          "Employer social protection (about 14.5%)",
+          "About OMR 566",
+          "None"
+        ],
+        [
+          "One-off setup",
+          "OMR 0 (hired by word of mouth)",
+          "OMR 100"
+        ],
+        [
+          "Owner's time to get started",
+          "About 40 hours training in month one",
+          "About 6 hours writing answers"
+        ],
+        [
+          "Year-one cash total",
+          "About OMR 4,466",
+          "About OMR 700"
+        ],
+        [
+          "Hours covered",
+          "40 a week, minus 30 days' leave",
+          "Every hour, including 11pm"
+        ],
+        [
+          "Can fold, fit, pack and greet walk-ins",
+          "Yes",
+          "No"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Divide the hire total by 12 to get your break-even: about OMR 372 a month. On cash alone, any chat setup quoted below that is cheaper. The better question is what work each option actually does."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "I didn't need another pair of hands on my phone. I needed my phone to stop asking me the same question.",
+      "attribution": "Muzna, boutique owner, Al Mouj (composite)",
+      "persona": true
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "second-brain-first",
+      "text": "Second brain first, second employee later"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Muzna did both, in that order. In October she set up automatic replies on WhatsApp and the website for the repeat questions: prices, sizes, the location pin, delivery areas and hours. Anything about orders, complaints or custom work was saved as a lead for her to pick up in the morning. She chose Chatbot.OM because it understood voice notes in Omani Arabic, not just typed text."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "In her composite first month, the midnight pile fell from about 70 unread chats to around 15 that really needed her. She still plans to hire, but for the shop floor during the winter rush. The job description no longer says \"answer WhatsApp\"."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "Hire people for the work only people can do, and let software take the questions you have already answered a hundred times."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "If your nights look like Muzna's, count your chats before you post a job advert. The count tells you which problem you actually have."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "If more than half your chats are repeats, automate those first. It costs a fraction of a salary and it answers at 11pm."
+          }
+        ],
+        [
+          {
+            "text": "If the real pressure is physical work (packing, fitting, serving, cleaning), hire. Software cannot fold a kaftan."
+          }
+        ],
+        [
+          {
+            "text": "If both are true, automate first, then hire for the floor with a clearer job description."
+          }
+        ],
+        [
+          {
+            "text": "Whatever you choose, ask where the chat data is stored. Oman's Personal Data Protection Law covers the names, numbers and messages any tool keeps for you."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "key",
+      "title": "Your ten-minute count",
+      "paragraphs": [
+        "Open WhatsApp and scroll back through yesterday's chats. Make three tallies on paper: repeats, sales in progress, and only-me.",
+        "Circle every chat that arrived after 9pm. If more than half are repeats and many are circled, automation is your first move.",
+        "Then write down what you would actually give a new hire to do once the repeats are gone. If the list is short, you have just saved about OMR 372 a month."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Is OMR 325 the real monthly cost of an Omani hire?",
+          "a": "It is the minimum wage. You also pay about 14.5 percent to the Social Protection Fund on top, and many owners pay more than the minimum to keep good staff."
+        },
+        {
+          "q": "Would an expatriate hire be cheaper?",
+          "a": "The salary may be lower, but permit, visa and medical fees, and often housing, come on top. Work out the full first-year cost before you compare."
+        },
+        {
+          "q": "Will customers mind an automatic reply?",
+          "a": "Someone asking about opening hours wants an answer, not a particular person. Make sure orders, complaints and anything unclear go to a human, and say so in the chat."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "A second employee is the right answer for work that needs hands and a smile. For the same ten questions arriving at midnight, a second brain costs less and never takes leave. Count your chats this week, and let the count decide."
+        }
+      ]
+    }
+  ]
+}

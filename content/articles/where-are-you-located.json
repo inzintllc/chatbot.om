@@ -1,0 +1,391 @@
+{
+  "id": "article-2026-10-16-tourist-questions-dms",
+  "taskId": "2026-10-16-tourist-questions-dms",
+  "slug": "where-are-you-located",
+  "title": "Where Are You Located? Why One Pin Wins Bookings",
+  "seoTitle": "Where Are You Located? The Pin That Wins Tour Bookings",
+  "excerpt": "It's 2:14 a.m. and a cruise passenger is asking where you are. Forty people asked the same thing this week. Here's the cheap fix that turns them into bookings.",
+  "seoDescription": "A composite Mutrah tour operator gets the same five tourist enquiries in four languages. A map pin and five saved answers turned askers into bookings.",
+  "series": "The Friday Story",
+  "category": "Work & Life",
+  "topic": "Where Are You Located? and Other Daily Mysteries",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-16",
+  "modifiedDate": "2026-10-16",
+  "reviewedDate": "2026-10-16",
+  "reviewBy": "2027-01-14",
+  "status": "published",
+  "tags": [
+    "The Friday Story",
+    "tour operators",
+    "tourist enquiries",
+    "WhatsApp Business",
+    "high season",
+    "multilingual chat",
+    "bookings"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#0a0b0f\"/><stop offset=\"0.55\" stop-color=\"#1a1d24\"/><stop offset=\"1\" stop-color=\"#d4ff4f\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#bg)\"/><ellipse cx=\"305\" cy=\"198\" rx=\"34\" ry=\"7\" fill=\"#0a0b0f\"/><path d=\"M305 34 C265 34 245 64 245 96 C245 136 305 192 305 192 C305 192 365 136 365 96 C365 64 345 34 305 34 Z\" fill=\"#0a0b0f\" stroke=\"#d4ff4f\" stroke-width=\"5\"/><circle cx=\"305\" cy=\"94\" r=\"22\" fill=\"#d4ff4f\"/><circle cx=\"305\" cy=\"94\" r=\"9\" fill=\"#0a0b0f\"/><text x=\"24\" y=\"72\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#f4f4f0\">Where are</text><text x=\"24\" y=\"112\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#d4ff4f\">you?</text><rect x=\"16\" y=\"136\" width=\"200\" height=\"28\" rx=\"6\" fill=\"#0a0b0f\"/><text x=\"26\" y=\"155\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#e8c07c\">5 questions, 4 languages</text></svg>",
+  "sources": [
+    {
+      "id": "mht",
+      "label": "Ministry of Heritage and Tourism: licensing services for travel agencies and adventure tourism",
+      "url": "https://mht.gov.om",
+      "kind": "oman-official"
+    },
+    {
+      "id": "whatsapp-quick-replies",
+      "label": "WhatsApp Blog: WhatsApp Business quick replies on web and desktop",
+      "url": "https://blog.whatsapp.com/celebrating-one-year-of-whats-app-business-with-new-web-and-desktop-features",
+      "kind": "vendor"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Thuraya's phone buzzed at 2:14 in the morning with a question she had already answered forty times that week: where are you located? She is a composite character, but anyone running a tour company, a guesthouse or a car hire desk in high season will know her inbox. Every tourist enquiry left unanswered until morning is a booking that can drift to whoever replied first."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "an-inbox-in-four-languages",
+      "text": "An inbox in four languages"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Thuraya runs a five-person tour company from Mutrah: herself, her cousin Ibrahim on bookings, and three driver guides who handle wadi trips, Wahiba overnights and dolphin mornings. From October the chats change. There are fewer friends of friends asking about weekend camps and more strangers writing from other time zones, at hours that make sense in Munich or Lyon."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "A typical Tuesday night: \"Hi, where are you located? Our ship docks at 7.\" Then \"Wo ist der Treffpunkt genau?\" Then \"Bonjour, vous êtes où exactement? On est à l'hôtel à Qurum.\" Then a voice note from a family in Barka: \"السلام عليكم، وين مكانكم بالضبط؟ نبغى نروح وادي الشاب يوم الجمعة\" (where exactly are you? We want to go to Wadi Shab on Friday)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-same-five-questions",
+      "text": "The same five questions, every night"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "One week in late October, Thuraya scrolled back and sorted every chat by what it was really asking. Take away the languages and she found just five questions."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Where are you, and where exactly do we meet?"
+          }
+        ],
+        [
+          {
+            "text": "Can you pick us up from the port or our hotel?"
+          }
+        ],
+        [
+          {
+            "text": "How much per person, and is lunch included?"
+          }
+        ],
+        [
+          {
+            "text": "What should we bring or wear?"
+          }
+        ],
+        [
+          {
+            "text": "Do you have space tomorrow?"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "None of them is hard. Each still took her three to five minutes to answer properly, because \"near the fish market, second parking, opposite the blue boat\" doesn't translate itself, and neither does \"bring water shoes, the rocks are slippery\"."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "A tourist who asks where you are is not lost: they are deciding, and the first clear answer usually wins."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-a-slow-answer-costs",
+      "text": "What a slow answer actually costs"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Tourists rarely message just one operator. They message three or four on the same evening and book whoever makes the day feel easy. Thuraya would wake at six to forty unread chats and answer them over breakfast. By then a good share of the people asking had booked elsewhere or simply gone quiet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "It got worse because the questions came in pairs. She would answer \"where\" and the next message was \"and from the port?\" Every back and forth cost another night. What changed it in the end was not a new hire, and it was not expensive. It started with a pin."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-pin-that-solved-half",
+      "text": "The pin that solved half of it"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The first fix cost nothing. Thuraya drove to her real meeting point and dropped a map pin on that exact spot, not on her office, which sits up a flight of stairs nobody can find. She took one photo of the spot with the boats behind it. Now every \"where\" gets the pin, the photo and one line: \"Meet here at 7:15, look for the white van with our logo.\""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "That single message also settled most of the pickup questions. A cruise passenger who can see the pin is a short walk from the port gate stops asking for a ride. In her composite week, questions one and two made up about half of all chats."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "Half my guests were never lost. They just couldn't see where I was standing.",
+      "attribution": "Thuraya, tour operator, Mutrah (composite)",
+      "persona": true
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "five-answers-four-languages",
+      "text": "Five answers, written once, in four languages"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Next, she wrote her five answers properly, just once, in English, Arabic, German and French. A German guest checked the German over coffee. She saved them as "
+        },
+        {
+          "text": "quick replies in the WhatsApp Business app",
+          "href": "https://blog.whatsapp.com/celebrating-one-year-of-whats-app-business-with-new-web-and-desktop-features"
+        },
+        {
+          "text": ": saved messages you bring up by typing a slash. She also put the same five answers on the booking page of her website."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "That cut her typing but not her waiting. Somebody still has to be awake to send a quick reply. The 2 a.m. message from the ship still sat there until morning."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-night-shift-she-did-not-hire",
+      "text": "The night shift she didn't have to hire"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The last step was letting the answers go out by themselves. Thuraya connected a chat assistant to her WhatsApp and her website. She gave it the pin, the photo, her five answers, her prices and her trip calendar, plus one rule: refunds, medical needs and any group over twelve come straight to her, with the "
+        },
+        {
+          "text": "whole conversation passed along",
+          "href": "/features/human-handover/"
+        },
+        {
+          "text": " so nobody has to explain twice."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Now the couple from Lyon who write at 1 a.m. get the pin, the price with lunch and what to wear, in French, within a minute. By the time Thuraya wakes up, that chat has become a booking request with names, a date and a hotel. Her mornings go to the conversations that actually need her."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "redo-the-maths",
+      "text": "Redo the maths with your own inbox"
+    },
+    {
+      "type": "table",
+      "caption": "Composite example. The booking rates are Thuraya's own estimates, not industry figures. Put in your own numbers.",
+      "headers": [
+        "Line",
+        "Thuraya's composite week",
+        "Your numbers"
+      ],
+      "rows": [
+        [
+          "Tourist enquiries per week in high season",
+          "120",
+          "Add yours"
+        ],
+        [
+          "Arriving between 10 p.m. and 7 a.m.",
+          "45",
+          "Add yours"
+        ],
+        [
+          "Night askers who book when answered next morning (1 in 10)",
+          "About 4",
+          "Add yours"
+        ],
+        [
+          "Night askers who book when answered within minutes (1 in 4)",
+          "About 11",
+          "Add yours"
+        ],
+        [
+          "Extra bookings per week",
+          "7",
+          "Add yours"
+        ],
+        [
+          "Average booking (2 guests at OMR 45, Wadi Shab day trip)",
+          "OMR 90",
+          "Add yours"
+        ],
+        [
+          "Extra revenue per week",
+          "OMR 630",
+          "Add yours"
+        ],
+        [
+          "Time typing directions (60 \"where\" chats at 4 minutes each)",
+          "4 hours, down to about 20 minutes with a saved pin reply",
+          "Add yours"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "You don't need Thuraya's tour vans to have Thuraya's inbox. A guesthouse in Jabal Akhdar, a car hire office near the airport and a café in Mutrah all get the same handful of questions on repeat. The way out works in the same order for all of them."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Pin where customers actually meet you, and add a photo of the spot."
+          }
+        ],
+        [
+          {
+            "text": "Write your top five answers once, in the languages your chats really arrive in."
+          }
+        ],
+        [
+          {
+            "text": "Save them as quick replies and put them on your website as well."
+          }
+        ],
+        [
+          {
+            "text": "For the hours when you're asleep, let an assistant send those answers and pass the tricky chats to you."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "If most of your tourist chats arrive overnight, "
+        },
+        {
+          "text": "this earlier piece on night-time enquiries",
+          "href": "/blog/tourist-chats-while-you-sleep/"
+        },
+        {
+          "text": " goes into the timing in more detail. For the last step, Chatbot.OM answers website and WhatsApp chats around the clock, and it's live in about a day. Whatever tool you pick should do the same and send the hard questions to a person."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "tip",
+      "title": "Your two-minute check",
+      "paragraphs": [
+        "Send your own location to a friend. Does the pin land where guests really meet you, or on a rooftop office?",
+        "Count yesterday's chats. How many were one of your five questions?",
+        "Open your WhatsApp Business profile. Are your address, hours and website link filled in?",
+        "If you run tours, is your Ministry of Heritage and Tourism licence number visible? Careful travellers check.",
+        "Tonight at 11 p.m., message your business from a friend's phone and time how long the reply takes."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Should I share my office location or my meeting point?",
+          "a": "Share the meeting point. If guests ever come to the office, send that as a second pin with its own photo."
+        },
+        {
+          "q": "Do I really need answers in German and French?",
+          "a": "Only if your chats arrive in those languages. Look back at one busy week, then write answers for the top two or three languages you find."
+        },
+        {
+          "q": "Will tourists mind an automatic reply?",
+          "a": "Most just want a clear answer quickly. Keep the tone warm, and make sure a real person picks up anything unusual."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "\"Where are you located?\" isn't an annoying question. It's the start of a booking. Answer it with a pin, a photo and five ready replies, sent at any hour, and the people who ask turn into the people who show up."
+        }
+      ]
+    }
+  ]
+}
