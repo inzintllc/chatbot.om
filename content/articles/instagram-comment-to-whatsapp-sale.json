@@ -1,0 +1,445 @@
+{
+  "id": "article-2026-10-18-instagram-to-sale",
+  "taskId": "2026-10-18-instagram-to-sale",
+  "slug": "instagram-comment-to-whatsapp-sale",
+  "title": "From Instagram Comment to WhatsApp Sale",
+  "seoTitle": "From Instagram to WhatsApp: Turn Comments Into Sales",
+  "excerpt": "Sixty people commented \"price?\" on one post. Four bought. The other 56 didn't say no. They got lost on the way from Instagram to WhatsApp, and you can fix that this morning.",
+  "seoDescription": "Moving customers from Instagram to WhatsApp loses people at every step. Here are the scripts, bio setup and story highlights that make it one tap.",
+  "series": "Chats Into Customers",
+  "category": "Leads & Sales",
+  "topic": "From Instagram Comment to WhatsApp Sale",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-18",
+  "modifiedDate": "2026-10-18",
+  "reviewedDate": "2026-10-18",
+  "reviewBy": "2027-01-16",
+  "status": "published",
+  "tags": [
+    "Instagram",
+    "WhatsApp",
+    "small business sales",
+    "social selling",
+    "chat scripts",
+    "Instagram bio",
+    "story highlights",
+    "leads"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#0a0b0f\"/><stop offset=\"0.55\" stop-color=\"#1a1d24\"/><stop offset=\"1\" stop-color=\"#d4ff4f\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#bg)\"/><rect x=\"262\" y=\"20\" width=\"114\" height=\"42\" rx=\"21\" fill=\"#e8c07c\"/><path d=\"M284 58 L276 76 L300 61 Z\" fill=\"#e8c07c\"/><text x=\"319\" y=\"48\" font-family=\"Arial, sans-serif\" font-size=\"18\" font-weight=\"bold\" fill=\"#0a0b0f\" text-anchor=\"middle\">price?</text><path d=\"M336 70 C 366 90, 366 108, 340 126\" fill=\"none\" stroke=\"#79e0c8\" stroke-width=\"4\" stroke-dasharray=\"8 6\" stroke-linecap=\"round\"/><path d=\"M330 118 L338 134 L350 122 Z\" fill=\"#79e0c8\"/><path d=\"M356 196 L380 214 L344 202 Z\" fill=\"#0a0b0f\"/><rect x=\"232\" y=\"138\" width=\"150\" height=\"66\" rx=\"22\" fill=\"#0a0b0f\" stroke=\"#d4ff4f\" stroke-width=\"4\"/><text x=\"307\" y=\"168\" font-family=\"Arial, sans-serif\" font-size=\"18\" font-weight=\"bold\" fill=\"#d4ff4f\" text-anchor=\"middle\">A12, size 56</text><text x=\"307\" y=\"190\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#f4f4f0\" text-anchor=\"middle\">Paid. OMR 28</text><text x=\"24\" y=\"72\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#f4f4f0\">60 comments</text><text x=\"24\" y=\"114\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#d4ff4f\">4 sales</text><text x=\"24\" y=\"146\" font-family=\"Arial, sans-serif\" font-size=\"15\" fill=\"#79e0c8\">Where did the other 56 go?</text></svg>",
+  "sources": [
+    {
+      "id": "whatsapp-click-to-chat",
+      "label": "WhatsApp Help Center: How to use click to chat",
+      "url": "https://faq.whatsapp.com/5913398998672934/",
+      "kind": "vendor"
+    },
+    {
+      "id": "instagram-whatsapp-contact",
+      "label": "Instagram Help Center: Add a WhatsApp contact option to your profile",
+      "url": "https://help.instagram.com/ipad-app/1093295047789621",
+      "kind": "vendor"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Your customers find you on Instagram, but they buy from you on WhatsApp. Every comment that never makes the jump from Instagram to WhatsApp is a sale that walked away without saying no. Here is how to make that jump one tap long, with scripts you can copy before your first customer messages today."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "sixty-comments-four-sales",
+      "text": "Sixty comments, four sales"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Take Wafa, a composite example: she runs a small abaya boutique in Al Khoudh with two staff. She posts a new embroidered design on a Thursday evening. By Saturday it has 60 comments, nearly all saying some version of \"price?\" or \"كم السعر؟\"."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "She replies \"DM please\" to the ones she sees. In the DMs she types out her WhatsApp number. A week later she counts the orders for that design: four. Nobody said the abaya was too expensive. They simply never arrived. So where did the other 56 go?"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "where-customers-fall-off",
+      "text": "Where customers fall off between Instagram and WhatsApp"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The usual path asks the customer to do a lot of small jobs. Each one is a door they can walk out of:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Comment and wait. "
+          },
+          {
+            "text": "They asked in public and got \"DM please\" hours later, or not at all."
+          }
+        ],
+        [
+          {
+            "text": "Open DMs. "
+          },
+          {
+            "text": "Your reply may sit in their message requests folder, which many people never check."
+          }
+        ],
+        [
+          {
+            "text": "Copy a number. "
+          },
+          {
+            "text": "They have to copy your number, open WhatsApp, save a contact or start a new chat."
+          }
+        ],
+        [
+          {
+            "text": "Explain again. "
+          },
+          {
+            "text": "Now on WhatsApp, they must describe which design they meant, because you can't see the post they saw."
+          }
+        ],
+        [
+          {
+            "text": "Wait again. "
+          },
+          {
+            "text": "Then they wait for the price they asked for in the first place."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "Every extra step between the comment and the chat costs you customers, so your whole job is to make the jump one tap long."
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Notice that \"price?\" was asked at step one and answered at step five. Many people read \"price in DM\" as \"too expensive to say out loud\" and leave. There is a calmer way to handle that question, covered in "
+        },
+        {
+          "text": "Answer 'How Much?' Without Losing the Margin",
+          "href": "/blog/answer-how-much-without-losing-margin/"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-hour-that-kills-the-sale",
+      "text": "The hour that kills the sale"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Look at when Wafa's comments arrived: after 9pm, after iftar during Ramadan, on Friday afternoons. That is when people scroll. It is also when the owner is cooking, driving or asleep. With tourist season under way, add visitors asking in English or German from hotel rooms at hours you would never pick."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "A customer who taps through to WhatsApp at 11pm and hears nothing until 10am has usually found another shop by then. So the fix has two halves: a shorter path, and someone answering at the end of it. The shorter path comes first."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-one-tap-bridge",
+      "text": "The one-tap bridge: a code and a link"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Give every post a short product code in the caption, like A12. Then make a WhatsApp click-to-chat link, which is a web address that opens a chat with your number and types a message for the customer. The format is wa.me/968XXXXXXXX followed by ?text= and your message. WhatsApp's own "
+        },
+        {
+          "text": "click to chat guide",
+          "href": "https://faq.whatsapp.com/5913398998672934/"
+        },
+        {
+          "text": " explains it: full number with the country code, no plus sign, spaces or dashes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Links in Instagram comments are not clickable, but links in DMs and story link stickers are. So here are the three scripts:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Public comment reply: ",
+            "strong": true
+          },
+          {
+            "text": "\"A12 is OMR 28, sizes 52 to 60. Sent you the WhatsApp link to order.\" The price is public, so the next scroller doesn't need to ask."
+          }
+        ],
+        [
+          {
+            "text": "DM: ",
+            "strong": true
+          },
+          {
+            "text": "\"Hi, thanks for asking about A12. Tap here and it opens WhatsApp with the code already typed: [your wa.me link]. We reply with sizes and delivery.\""
+          }
+        ],
+        [
+          {
+            "text": "Pre-filled WhatsApp message: ",
+            "strong": true
+          },
+          {
+            "text": "\"Hi, I saw A12 on Instagram. My size is:\" The customer only adds a number and taps send, and you know exactly which post they mean."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Real customers won't always follow the script. Expect \"Salam, A12 mawjood size 56? w kam el tawseel l Sohar?\" or a voice note. That's fine. The code still tells you which design they mean."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "bio-and-story-highlights",
+      "text": "What to put in your bio and story highlights"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Your profile is the shop window people check before they message. If your account is a business or creator account, Instagram lets you add a WhatsApp contact button under Edit Profile and Contact Options, where available ("
+        },
+        {
+          "text": "Instagram's help page",
+          "href": "https://help.instagram.com/ipad-app/1093295047789621"
+        },
+        {
+          "text": " has the steps). Then set up the rest like this:"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Spot",
+        "What to put there",
+        "Why it sells"
+      ],
+      "rows": [
+        [
+          "Bio line 1",
+          "What you sell and where: \"Embroidered abayas, Al Khoudh. Delivery across Oman\"",
+          "Answers \"is this for me?\" in one glance"
+        ],
+        [
+          "Bio line 2",
+          "\"Order on WhatsApp: send the post code\"",
+          "Teaches the code habit before they ask"
+        ],
+        [
+          "Contact button",
+          "WhatsApp, as the only option if you can",
+          "One tap, no number copying"
+        ],
+        [
+          "Highlight: Prices",
+          "A story with your price ranges",
+          "Kills the \"price?\" comment"
+        ],
+        [
+          "Highlight: How to order",
+          "Three steps, ending in a WhatsApp link sticker",
+          "Shows the path is easy"
+        ],
+        [
+          "Highlight: Delivery",
+          "Areas, fees, days",
+          "Answers the second question before it's asked"
+        ],
+        [
+          "Highlight: Reviews",
+          "Screenshots of happy customers, with permission",
+          "Trust for a first-time buyer"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-numbers-from-one-post",
+      "text": "The numbers from one post"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Here is Wafa's composite example, before and after. These are illustrative numbers, so swap in your own counts and your own price."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Step",
+        "Before",
+        "After"
+      ],
+      "rows": [
+        [
+          "Comments asking the price",
+          "60",
+          "60"
+        ],
+        [
+          "Got a reply the same evening",
+          "20",
+          "60"
+        ],
+        [
+          "Reached WhatsApp",
+          "9",
+          "33"
+        ],
+        [
+          "First WhatsApp reply arrived",
+          "Next morning",
+          "Within minutes"
+        ],
+        [
+          "Bought, at OMR 28 each",
+          "4 (OMR 112)",
+          "10 (OMR 280)"
+        ]
+      ],
+      "caption": "Composite example. Extra takings from one post: OMR 168."
+    },
+    {
+      "type": "quote",
+      "quote": "I thought my prices were the problem. Turns out people just couldn't find their way to my WhatsApp.",
+      "attribution": "Wafa, boutique owner, Al Khoudh (composite)",
+      "persona": true
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The biggest jump in that table isn't the link. It's the row that says \"within minutes\". The bridge gets people to WhatsApp, and a fast first reply closes the sale. For Wafa, that meant someone, or something, answering at 11pm."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "You don't need more followers. You need fewer steps and a faster first reply. Put a code on every post and the price in the caption or the first comment. Send one link, not one number. Make your first WhatsApp reply do the whole job: price, sizes or slots, delivery or location, and how to pay."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "And be polite with the numbers you collect. Answering someone who messaged you is customer service. Adding them to an offers broadcast is something to ask first, with an easy way to say stop. That's good manners, and it's the direction the rules on promotional messages here are heading."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "tip",
+      "title": "Try this today",
+      "paragraphs": [
+        "Open your last three posts. Does each have a code and a price? Add them.",
+        "Make one wa.me link with \"Hi, I saw [code] on Instagram\" and test it on your own phone.",
+        "Check your Instagram message requests folder for chats you never saw.",
+        "Write your first WhatsApp reply once, save it as a quick reply, and use it every time."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "brand",
+      "title": "For the 11pm messages",
+      "paragraphs": [
+        "Chatbot.OM answers your WhatsApp and website around the clock, including voice notes in Omani Arabic, so the customer who taps your link at midnight gets price, sizes and delivery straight away, and you get a saved lead in the morning."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Should I still reply to comments if I send a DM?",
+          "a": "Yes. A short public reply with the price shows everyone scrolling that you answer, and it tells the commenter to check their messages."
+        },
+        {
+          "q": "What if a customer wants to order inside Instagram DMs?",
+          "a": "Let them. The bridge is there to help, not to force anyone. If they're happy in DMs, take the order there and note it in the same place as your WhatsApp orders."
+        },
+        {
+          "q": "Do I need a separate link for every post?",
+          "a": "No. One link with \"Hi, I saw a post on Instagram, the code is:\" works for everything. Separate links per post are a bonus for your best sellers."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Instagram is where people fall for what you sell, and WhatsApp is where they pay. A code, a one-tap link and a first reply that answers everything turn \"price?\" into an order. Fix the jump this week and check your next post's numbers against Wafa's."
+        }
+      ]
+    }
+  ]
+}
