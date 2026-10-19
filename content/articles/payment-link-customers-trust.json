@@ -1,0 +1,435 @@
+{
+  "id": "article-2026-10-19-payment-links-safely",
+  "taskId": "2026-10-19-payment-links-safely",
+  "slug": "payment-link-customers-trust",
+  "title": "How to Send a Payment Link Customers Trust",
+  "seoTitle": "Payment Links in Chat: How to Send One Customers Trust",
+  "excerpt": "A customer types \"send link, I'll pay now\" at 11pm. What you send next decides whether she trusts it, and whether the money ever reaches you.",
+  "seoDescription": "Taking payment in WhatsApp chat? How payment links work, the red flags customers now watch for, and the routine that protects your shop from fake screenshots.",
+  "series": "Oman Digital Pulse",
+  "category": "Rules & Updates",
+  "topic": "Payment Links in Chat, Done Safely",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-19",
+  "modifiedDate": "2026-10-19",
+  "reviewedDate": "2026-10-19",
+  "reviewBy": "2027-01-17",
+  "status": "published",
+  "tags": [
+    "payment links",
+    "WhatsApp selling",
+    "scams",
+    "fake screenshots",
+    "e-commerce licence",
+    "online payments",
+    "small business"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#14121c\"/><stop offset=\"0.55\" stop-color=\"#3a3554\"/><stop offset=\"1\" stop-color=\"#a8a8f8\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#bg)\"/><text x=\"24\" y=\"80\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"38\" fill=\"#d4ff4f\">SAFE</text><text x=\"24\" y=\"120\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"38\" fill=\"#d4ff4f\">LINK?</text><text x=\"24\" y=\"150\" font-family=\"Arial, sans-serif\" font-size=\"15\" fill=\"#f4f4f0\">Payment links in chat</text><rect x=\"236\" y=\"22\" width=\"132\" height=\"184\" rx=\"18\" fill=\"#14121c\" stroke=\"#e8c07c\" stroke-width=\"4\"/><rect x=\"284\" y=\"32\" width=\"36\" height=\"5\" rx=\"2.5\" fill=\"#3a3554\"/><rect x=\"252\" y=\"50\" width=\"100\" height=\"40\" rx=\"10\" fill=\"#3a3554\"/><text x=\"262\" y=\"75\" font-family=\"Arial, sans-serif\" font-size=\"13\" fill=\"#f4f4f0\">send link?</text><rect x=\"252\" y=\"104\" width=\"100\" height=\"62\" rx=\"10\" fill=\"#79e0c8\"/><path d=\"M267 125v-5a6 6 0 0 1 12 0v5\" stroke=\"#14121c\" stroke-width=\"3\" fill=\"none\"/><rect x=\"263\" y=\"124\" width=\"20\" height=\"15\" rx=\"2\" fill=\"#14121c\"/><text x=\"288\" y=\"138\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"16\" fill=\"#14121c\">OMR 22</text><circle cx=\"338\" cy=\"185\" r=\"12\" fill=\"#d4ff4f\"/><path d=\"M332 185l4 4 8-8\" stroke=\"#14121c\" stroke-width=\"3\" fill=\"none\"/></svg>",
+  "sources": [
+    {
+      "id": "oo-loan-warning",
+      "label": "Oman Observer: Beware of 'instant loan' offers, ROP cautions (13 October 2026)",
+      "url": "https://www.omanobserver.om/article/1197755/oman/beware-of-instant-loan-offers-rop-cautions",
+      "kind": "media"
+    },
+    {
+      "id": "md-traffic-fine",
+      "label": "Muscat Daily: ROP warns against fake traffic fine text messages (3 September 2026)",
+      "url": "https://www.muscatdaily.com/2026/09/03/rop-warns-against-fake-traffic-fine-text-messages/",
+      "kind": "media"
+    },
+    {
+      "id": "oo-online-buyers",
+      "label": "Oman Observer: Scammers target online buyers (May 2026)",
+      "url": "https://www.omanobserver.om/article/1189344/oman/scammers-target-online-buyers",
+      "kind": "media"
+    },
+    {
+      "id": "tejarah-ecommerce",
+      "label": "Ministry of Commerce, Industry and Investment Promotion: e-commerce sector growth and challenges (July 2025)",
+      "url": "https://tejarah.gov.om/en/media/news/eydzeu8eghhcvq8pdt3v0p22",
+      "kind": "oman-official"
+    },
+    {
+      "id": "md-ecommerce-licence",
+      "label": "Muscat Daily: E-commerce becomes essential for Omani SMEs, startups (licence display rule)",
+      "url": "https://www.muscatdaily.com/2025/09/27/e-commerce-becomes-essential-for-omani-smes-startups/",
+      "kind": "media"
+    },
+    {
+      "id": "tou-cbo-micro",
+      "label": "Times of Oman: CBO issues framework for small businesses to use e-payment services",
+      "url": "https://timesofoman.com/article/97770-cbo-issues-framework-for-small-businesses-to-use-e-payment-services",
+      "kind": "media"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "At 11pm a customer types \"ابا نفس العطر حق امس, send link please\" and waits. The payment link you send next decides two things: whether she trusts it enough to tap, and whether the money actually reaches you. In a week when police and the central bank warned about fake links on WhatsApp and Instagram, both questions matter more than usual."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "why-your-link-looks-suspicious",
+      "text": "Why your link looks suspicious this week"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "On 13 October, the "
+        },
+        {
+          "text": "Oman Observer reported a fresh warning",
+          "href": "https://www.omanobserver.om/article/1197755/oman/beware-of-instant-loan-offers-rop-cautions"
+        },
+        {
+          "text": " from the Royal Oman Police and the Central Bank of Oman. Fraudsters are posing as financial institutions on WhatsApp, Snapchat and Instagram, offering fake instant loans and sending links that collect personal and banking details. Some even send app files to install."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "It follows the "
+        },
+        {
+          "text": "fake traffic fine texts police flagged on 3 September",
+          "href": "https://www.muscatdaily.com/2026/09/03/rop-warns-against-fake-traffic-fine-text-messages/"
+        },
+        {
+          "text": ", which demanded payment within 12 hours through an unofficial link. No rule for sellers changed this week. What changed is the mood: your customers have seen these forwards in the family group, and any link from a shop now gets a second look."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-a-payment-link-is",
+      "text": "What a payment link actually is"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "A payment link is a web address that opens a secure checkout page where the customer pays a set amount by card. You create it inside your bank's merchant service or a licensed payment provider's app, and the customer never types card details into the chat. Since 2021 the central bank has let banks and licensed providers "
+        },
+        {
+          "text": "sign up micro businesses with fewer than ten staff",
+          "href": "https://timesofoman.com/article/97770-cbo-issues-framework-for-small-businesses-to-use-e-payment-services"
+        },
+        {
+          "text": " for electronic payments, so this is not only for big stores."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The other common way to get paid in chat is a bank transfer, with the customer sending a screenshot as proof. That works until the screenshot is fake. We will come back to that, because it is how most small sellers actually lose money."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "A safe payment link is one the customer was expecting, for an amount they already agreed, from a number they already know."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "red-flags-customers-check",
+      "text": "The red flags customers now watch for"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Most of these come straight from police and bank warnings. If your link shows even one, a careful customer will walk away."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Being asked for an OTP, PIN or CVV in chat. Banks say they never ask for these by SMS or WhatsApp, and neither should a shop."
+          }
+        ],
+        [
+          {
+            "text": "A deadline that feels like pressure, such as \"pay within 12 hours or lose your order\"."
+          }
+        ],
+        [
+          {
+            "text": "A link that arrives before the order is agreed, or from a number they have never chatted with."
+          }
+        ],
+        [
+          {
+            "text": "A web address that does not match any bank or provider name, or a file to download and install."
+          }
+        ],
+        [
+          {
+            "text": "A price far below everyone else's for the same item."
+          }
+        ],
+        [
+          {
+            "text": "A name on the checkout page that does not match the shop they think they are paying."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "scam-runs-the-other-way",
+      "text": "The scam that runs the other way"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Sellers are targets too. The Ministry of Commerce, Industry and Investment Promotion has noted that online sellers face "
+        },
+        {
+          "text": "payment fraud, fake receipts and last-minute cancellations",
+          "href": "https://tejarah.gov.om/en/media/news/eydzeu8eghhcvq8pdt3v0p22"
+        },
+        {
+          "text": ". Police have also warned about \"buyers\" who send sellers a link to \"verify\" a payment, which can end with money withdrawn from the seller's own account, as the "
+        },
+        {
+          "text": "Oman Observer reported in May",
+          "href": "https://www.omanobserver.om/article/1189344/oman/scammers-target-online-buyers"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Take Yusra, a composite example: she sells oud and perfume from home in Seeb through Instagram and WhatsApp. One evening in September a new customer sent a neat transfer screenshot for OMR 38. She called the driver, the parcel left, and the money never arrived. What finally stopped it is simple, and it comes in a moment."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-a-fake-screenshot-costs",
+      "text": "What a fake screenshot really costs"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Here is Yusra's month, worked out. Put your own numbers in the last column. The link fee is an example rate only; check the real rate in your own bank or provider contract."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Line",
+        "Yusra's month (composite)",
+        "Your numbers"
+      ],
+      "rows": [
+        [
+          "Orders taken in chat",
+          "60",
+          "___ orders"
+        ],
+        [
+          "Average order",
+          "OMR 22",
+          "OMR ___"
+        ],
+        [
+          "Chat sales for the month",
+          "OMR 1,320",
+          "OMR ___"
+        ],
+        [
+          "One parcel sent on a fake screenshot",
+          "OMR 40 lost (OMR 38 goods plus OMR 2 delivery)",
+          "OMR ___ lost"
+        ],
+        [
+          "Time matching transfers in the bank app",
+          "3 minutes x 60 = 3 hours",
+          "___ hours"
+        ],
+        [
+          "Link fee at an example 2.5 percent",
+          "OMR 33",
+          "OMR ___"
+        ]
+      ],
+      "caption": "The fee is a known, planned cost. A fake screenshot is an unplanned loss plus hours of checking."
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Notice the lesson is not \"links good, transfers bad\". The lesson is where you check the money. Visitors in high season often cannot make a local transfer at all, so a card link wins you those orders too."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "Check the money in your own account, never in the customer's screenshot."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "routine-that-protects-both-sides",
+      "text": "The routine that protects both sides"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Yusra now runs every paid order through the same steps, and her customers have started commenting that it feels professional."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Agree the order in writing first: item, size, price, delivery fee and total."
+          }
+        ],
+        [
+          {
+            "text": "Create the link yourself, from your bank's merchant app or your provider's dashboard, for that exact total. Never use a link someone else sent you."
+          }
+        ],
+        [
+          {
+            "text": "Send it with the same short message every time, for example: \"Your order from Oud Yusra: 2 x Dehn al Oud, delivery to Seeb. Total OMR 22. Pay securely here (your link). We never ask for your OTP, PIN or CVV.\""
+          }
+        ],
+        [
+          {
+            "text": "Confirm the payment shows as paid in your own dashboard or bank app before anything leaves."
+          }
+        ],
+        [
+          {
+            "text": "Send a confirmation in the same chat, then dispatch."
+          }
+        ],
+        [
+          {
+            "text": "If a customer pastes card numbers or a photo of their card, delete it and point them to the link."
+          }
+        ],
+        [
+          {
+            "text": "Show your e-commerce licence number on your Instagram and WhatsApp profiles. Social media sellers "
+          },
+          {
+            "text": "must display it",
+            "href": "https://www.muscatdaily.com/2025/09/27/e-commerce-becomes-essential-for-omani-smes-startups/"
+          },
+          {
+            "text": ", and it is exactly what a wary customer looks for."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "Now nothing leaves the house until I see it paid in my own app, not in somebody's screenshot.",
+      "attribution": "Yusra, home perfume seller, Seeb",
+      "persona": true
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Your customers are more cautious this month, and that is good news for honest shops. Make your payment step predictable: same number, same message, an agreed amount, a checkout page that carries your shop's name. Predictable is what trust looks like on a phone screen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Protect yourself the same way. Never open a link a buyer sends you, never dispatch on a screenshot, and if a message feels wrong, report it to the police or your bank rather than replying."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "tip",
+      "title": "Your two-minute check",
+      "paragraphs": [
+        "Open your last five paid orders and ask: did I agree the total in writing first?",
+        "Did the link come from my own bank or provider app, and does the checkout page show my shop's name?",
+        "Did I confirm the money in my own account before dispatch?",
+        "Is my e-commerce licence number visible on my profile? Any \"no\" is this week's job."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "brand",
+      "title": "When chats arrive while you sleep",
+      "paragraphs": [
+        "Chatbot.OM can answer price, stock and delivery questions on WhatsApp and your website overnight, then hand the chat to you when the customer is ready to pay, so the link always comes from your own app."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Is a transfer screenshot proof of payment?",
+          "a": "No. Screenshots are easy to fake. Treat the order as paid only when the money shows in your own bank app or payment dashboard."
+        },
+        {
+          "q": "A buyer sent me a link to receive their payment. Should I open it?",
+          "a": "No. Real payments do not need you to click anything a buyer sends. Police have warned that these links can lead to money being taken from your account."
+        },
+        {
+          "q": "Do I need a licence to sell on Instagram or WhatsApp?",
+          "a": "Online sellers, including those on social media, need an e-commerce licence from the Ministry of Commerce, Industry and Investment Promotion, and must show the licence number on their profiles."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "A payment link is safe when nothing about it surprises anyone: the customer expected it, the amount was agreed, and you confirm the money yourself. Build that routine once, and the same habit that reassures your customers also keeps fake screenshots out of your business."
+        }
+      ]
+    }
+  ]
+}
