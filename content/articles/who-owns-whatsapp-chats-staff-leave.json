@@ -1,0 +1,508 @@
+{
+  "id": "article-2026-10-20-who-owns-the-chats",
+  "taskId": "2026-10-20-who-owns-the-chats",
+  "slug": "who-owns-whatsapp-chats-staff-leave",
+  "title": "Who Owns the Chats When Staff Leave?",
+  "seoTitle": "Who Owns WhatsApp Business Chats When Staff Leave?",
+  "excerpt": "A stylist resigns, and 160 regulars keep messaging the number in her handbag. On WhatsApp, chats belong to whoever holds the SIM and the backup. Make sure that is you.",
+  "seoDescription": "Who owns the chats when staff leave? On WhatsApp, whoever holds the number and the backup. How to protect customer chats, and recover if someone walks out.",
+  "series": "WhatsApp at Work",
+  "category": "WhatsApp Business",
+  "topic": "Who Owns the Chats When Staff Leave?",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-20",
+  "modifiedDate": "2026-10-20",
+  "reviewedDate": "2026-10-20",
+  "reviewBy": "2027-01-18",
+  "status": "published",
+  "tags": [
+    "WhatsApp Business",
+    "chat backups",
+    "staff handover",
+    "customer data",
+    "data protection",
+    "linked devices",
+    "small business"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\"><stop offset=\"0\" stop-color=\"#2c0a0d\"/><stop offset=\"0.55\" stop-color=\"#7a1c22\"/><stop offset=\"1\" stop-color=\"#f1a09a\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#bg)\"/><rect x=\"262\" y=\"28\" width=\"92\" height=\"170\" rx=\"14\" fill=\"#2c0a0d\" stroke=\"#d4ff4f\" stroke-width=\"4\"/><rect x=\"272\" y=\"46\" width=\"72\" height=\"128\" rx=\"5\" fill=\"#f4f4f0\"/><rect x=\"278\" y=\"56\" width=\"44\" height=\"14\" rx=\"6\" fill=\"#79e0c8\"/><rect x=\"294\" y=\"78\" width=\"44\" height=\"14\" rx=\"6\" fill=\"#e8c07c\"/><rect x=\"278\" y=\"100\" width=\"50\" height=\"14\" rx=\"6\" fill=\"#79e0c8\"/><rect x=\"288\" y=\"122\" width=\"50\" height=\"14\" rx=\"6\" fill=\"#e8c07c\"/><rect x=\"278\" y=\"144\" width=\"38\" height=\"14\" rx=\"6\" fill=\"#79e0c8\"/><circle cx=\"308\" cy=\"186\" r=\"5\" fill=\"#d4ff4f\"/><path d=\"M360 112 H384\" stroke=\"#2c0a0d\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M376 100 L390 112 L376 124\" fill=\"none\" stroke=\"#2c0a0d\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"24\" y=\"88\" font-family=\"Arial, sans-serif\" font-size=\"38\" font-weight=\"bold\" fill=\"#f4f4f0\">Whose</text><text x=\"24\" y=\"132\" font-family=\"Arial, sans-serif\" font-size=\"38\" font-weight=\"bold\" fill=\"#d4ff4f\">chats?</text><rect x=\"24\" y=\"144\" width=\"70\" height=\"4\" fill=\"#e8c07c\"/><text x=\"24\" y=\"172\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#e8c07c\">When staff leave with the number</text></svg>",
+  "sources": [
+    {
+      "id": "pdpl-text",
+      "label": "Personal Data Protection Law (Royal Decree 6/2022), text on Qanoon.om",
+      "url": "https://qanoon.om/p/2022/rd2022006/",
+      "kind": "analysis"
+    },
+    {
+      "id": "pdpl-amendment-cms",
+      "label": "CMS: Oman updates its Personal Data Protection Law (Royal Decree 68/2026)",
+      "url": "https://cms.law/en/omn/legal-updates/oman-updates-its-personal-data-protection-law",
+      "kind": "analysis"
+    },
+    {
+      "id": "royal-decrees-sept-2026",
+      "label": "Times of Oman: HM The Sultan issues 10 Royal Decrees",
+      "url": "https://timesofoman.com/article/176444-hm-the-sultan-issues-10-royal-decrees",
+      "kind": "media"
+    },
+    {
+      "id": "whatsapp-export",
+      "label": "WhatsApp Help Center: How to export your chat history",
+      "url": "https://faq.whatsapp.com/en/android/23756533",
+      "kind": "vendor"
+    },
+    {
+      "id": "whatsapp-encrypted-backups",
+      "label": "WhatsApp Blog: End-to-end encrypted backups on WhatsApp",
+      "url": "https://blog.whatsapp.com/end-to-end-encrypted-backups-on-whatsapp",
+      "kind": "vendor"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "When a good employee leaves, the customer chats on their phone can leave too: every booking, every regular, every \"same as last time please\". On WhatsApp, the question of who owns the chats when staff leave has a blunt answer, and most small businesses only learn it the awkward morning after. Here is how to stop it happening, and what to do if it already has."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-morning-the-chats-walked-out",
+      "text": "The morning the chats walked out"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Take Noor, a composite example. She runs a five-chair salon in Al Khuwair. For three years her senior stylist handled bookings on her own phone and her own number, because it was quicker than passing messages along. In March the stylist resigned, worked a polite notice period, and left with the phone in her handbag."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Within a month, regulars were booking with her at a new salon in Bausher. Nobody stole anything in the dramatic sense. The clients simply kept messaging the number they had always messaged, and that number was hers."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "I paid for every one of those clients. But the number was hers, so the clients went with her.",
+      "attribution": "Noor, salon owner, Al Khuwair (composite)",
+      "persona": true
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Noor's question is the one this article answers. What she changed, for less than the price of one blow-dry a month, comes later."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "why-the-number-is-everything",
+      "text": "Why the number is everything on WhatsApp"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "WhatsApp has no username and password the way email does. Your account is your phone number. Whoever can receive the verification code on that SIM can set WhatsApp up on a new phone, and the old phone gets logged out."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The chats themselves live on the phone, plus any backup the phone makes to Google Drive or iCloud. That backup sits in whichever Google or Apple account is signed in on the phone. If it is the employee's account, so is your history."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "On WhatsApp, whoever holds the SIM holds the customers, and the chat history follows whoever owns the backup account."
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "So ownership has three parts: the SIM, the backup account and the main phone. A business that controls all three owns its chats. A business that controls none of them is only borrowing them."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-a-walk-out-costs",
+      "text": "What a walk-out actually costs"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "It is easy to shrug this off as a few lost contacts. Run Noor's numbers, then swap in your own."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Line",
+        "Noor's salon (composite)",
+        "Your numbers"
+      ],
+      "rows": [
+        [
+          "Regular clients who booked through the stylist's number",
+          "160",
+          "..."
+        ],
+        [
+          "Share who followed her",
+          "1 in 4, so 40 clients",
+          "..."
+        ],
+        [
+          "Average spend per visit",
+          "OMR 15",
+          "..."
+        ],
+        [
+          "Visits per client per year",
+          "10",
+          "..."
+        ],
+        [
+          "Revenue walking out each year",
+          "40 x OMR 15 x 10 = OMR 6,000",
+          "..."
+        ]
+      ],
+      "caption": "Composite example. Clients who left, times average spend, times visits a year."
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "That is OMR 6,000 a year from one resignation. It leaves out the new enquiries that kept landing on her old phone for months, from people who found the number on an old Instagram post."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-law-puts-the-duty-on-you",
+      "text": "The law puts the duty on you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Customer chats are full of personal data: names, numbers, addresses, sometimes health details at a clinic or a child's name at a tuition centre. Under Oman's "
+        },
+        {
+          "text": "Personal Data Protection Law",
+          "href": "https://qanoon.om/p/2022/rd2022006/"
+        },
+        {
+          "text": ", the business that collects that data has to keep it confidential and protect it. The law was amended in September 2026, with tighter rules on how long data is kept and on consent for marketing."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "That cuts both ways. If your customer chats sit on a former employee's personal phone, you have lost control of data you are responsible for. The law gives you every reason to fix the setup. It does not give you a fast way to get a phone back."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "backup-export-or-linked-device",
+      "text": "Backup, export or linked device: which does what"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Tool",
+        "What it does",
+        "Who controls it"
+      ],
+      "rows": [
+        [
+          "Chat backup (Google Drive or iCloud)",
+          "Saves all chats so they can be restored when WhatsApp is set up again",
+          "Whoever owns the Google or Apple account on the phone"
+        ],
+        [
+          "Chat export",
+          "Sends one chat as a readable text file, with or without recent media. It cannot be restored into WhatsApp",
+          "Whoever has the phone"
+        ],
+        [
+          "Linked devices",
+          "Lets staff answer from the business number on another phone or a computer, without the SIM",
+          "Whoever holds the main phone"
+        ],
+        [
+          "Two-step verification",
+          "Adds a six-digit PIN needed to set the number up on a new phone",
+          "Whoever chose the PIN"
+        ]
+      ],
+      "compact": true
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "WhatsApp's "
+        },
+        {
+          "text": "help page on exports",
+          "href": "https://faq.whatsapp.com/en/android/23756533"
+        },
+        {
+          "text": " is clear that an export is a text file, not a backup. Backups can also be "
+        },
+        {
+          "text": "end-to-end encrypted",
+          "href": "https://blog.whatsapp.com/end-to-end-encrypted-backups-on-whatsapp"
+        },
+        {
+          "text": " with a password only the account owner knows. That is good security, as long as the owner is you."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "how-noor-set-it-up-again",
+      "text": "How Noor set it up the second time"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Noor's fix took one afternoon and no technical help. In order:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "One business number in the business's name. ",
+            "strong": true
+          },
+          {
+            "text": "A dedicated SIM for the salon, kept in her own phone, which never leaves her."
+          }
+        ],
+        [
+          {
+            "text": "Backups to the salon's account. ",
+            "strong": true
+          },
+          {
+            "text": "WhatsApp Business backs up to a Google account the salon owns, not anyone's personal one."
+          }
+        ],
+        [
+          {
+            "text": "Two-step verification on. ",
+            "strong": true
+          },
+          {
+            "text": "A PIN only she knows, with her email for recovery."
+          }
+        ],
+        [
+          {
+            "text": "Staff on linked devices. ",
+            "strong": true
+          },
+          {
+            "text": "Stylists answer chats on the shop tablet through Linked devices, and she can unlink any device in seconds."
+          }
+        ],
+        [
+          {
+            "text": "A customer list outside the phone. ",
+            "strong": true
+          },
+          {
+            "text": "Every client's name, number and preferences go into a shared sheet or booking app the salon owns."
+          }
+        ],
+        [
+          {
+            "text": "One line in every contract. ",
+            "strong": true
+          },
+          {
+            "text": "Customer contacts and conversations belong to the business and are handed back on the last day."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Then she told clients: a card at each mirror, a pinned Instagram post and her Google profile all show one number. If several people answer that number, read "
+        },
+        {
+          "text": "who replied first when two staff share one WhatsApp number",
+          "href": "/blog/two-staff-one-whatsapp-number/"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "if-someone-already-walked-out",
+      "text": "If someone already walked out with the number"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Prevention is cheaper, but here is the recovery. It depends on whose name the SIM is in."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "The SIM is in the business's name: ",
+            "strong": true
+          },
+          {
+            "text": "ask your operator for a replacement SIM, set WhatsApp up on a phone you hold, and restore from your backup if it is in your account. If the old phone had a PIN you do not know, WhatsApp may make you wait before the number works again."
+          }
+        ],
+        [
+          {
+            "text": "The SIM is in the employee's name: ",
+            "strong": true
+          },
+          {
+            "text": "you cannot claim it. Ask politely, in writing, for the business's customer contacts to be handed over and keep a copy. If they are being used to poach clients, talk to a lawyer about your contract."
+          }
+        ],
+        [
+          {
+            "text": "Either way: ",
+            "strong": true
+          },
+          {
+            "text": "put your one official number everywhere customers look, and answer fast when they reach you there."
+          }
+        ],
+        [
+          {
+            "text": "Do not blast a bought or scraped list ",
+            "strong": true
+          },
+          {
+            "text": "to win people back. Messaging people who never agreed to hear from you is exactly what the marketing consent rules target."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "You own your customer chats only if you own the number, the backup account and the main phone. Check all three this week, while everyone is still happy at work. It is a much easier conversation now than on someone's last day."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "If your business still runs on someone's personal number, start there. Our guide on why you should "
+        },
+        {
+          "text": "stop selling from your personal WhatsApp number",
+          "href": "/blog/stop-selling-personal-whatsapp-number/"
+        },
+        {
+          "text": " walks through the switch."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "tip",
+      "title": "Your five-minute check",
+      "paragraphs": [
+        "1. Whose name is the business SIM registered in? If it is not you or the business, that is job one.",
+        "2. In WhatsApp Business, open Settings, Chats, Chat backup. Is the account shown one the business controls?",
+        "3. Is two-step verification on, and do you know the PIN?",
+        "4. Open Linked devices. Do you recognise every device on the list?",
+        "5. Could you list your top 50 customers tomorrow without anyone's phone?"
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "brand",
+      "title": "Where Chatbot.OM fits",
+      "paragraphs": [
+        "Chatbot.OM answers your website and WhatsApp chats and saves each conversation as a lead record stored inside Oman, so your history belongs to the business, not to whichever phone was nearest."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Can I read a former employee's chats with my customers?",
+          "a": "Not from their personal phone or number. If the business owns the number and the backup account, the history comes back when you restore it on a phone you hold."
+        },
+        {
+          "q": "Is exporting a chat the same as backing it up?",
+          "a": "No. An export is a readable text file of one chat and cannot be put back into WhatsApp. Use backups to restore, and exports to keep a record of one important conversation."
+        },
+        {
+          "q": "How do I tell customers our number changed?",
+          "a": "From places they already trust: your Instagram, website, Google profile and shop counter. A surprise message from an unknown number asking them to switch looks exactly like the scams people are warned about."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Who owns the chats when staff leave? Whoever owns the number, the backup and the phone. Make that the business today, give staff linked devices instead of SIMs, and keep a customer list that lives on no one's phone. Then a resignation is just a goodbye, not a walk-out with your regulars."
+        }
+      ]
+    }
+  ]
+}
