@@ -1,0 +1,440 @@
+{
+  "id": "article-2026-10-21-write-for-ai-assistants",
+  "taskId": "2026-10-21-write-for-ai-assistants",
+  "slug": "ai-assistants-quoting-old-prices",
+  "title": "Are AI Assistants Quoting Your Old Prices?",
+  "seoTitle": "Are AI Assistants Quoting Your Old Prices? Fix It",
+  "excerpt": "A couple arrives at a Nizwa guesthouse holding a phone with an AI assistant's answer on it, and last winter's price. Where did that number come from, and how do you stop it happening to you?",
+  "seoDescription": "Customers now ask AI assistants where to eat, stay and shop. Here is how a small business makes sure they quote today's prices, hours and rules, not old ones.",
+  "series": "Your Website, Working",
+  "category": "Websites & Conversion",
+  "topic": "Write Pages AI Assistants Can Quote",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-21",
+  "modifiedDate": "2026-10-21",
+  "reviewedDate": "2026-10-21",
+  "reviewBy": "2027-01-19",
+  "status": "published",
+  "tags": [
+    "AI assistants",
+    "website content",
+    "Google Business Profile",
+    "pricing",
+    "small business",
+    "guesthouses",
+    "Arabic and English",
+    "Your Website, Working"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"bg\" x1=\"0\" y1=\"1\" x2=\"1\" y2=\"0\"><stop offset=\"0\" stop-color=\"#181109\"/><stop offset=\"0.55\" stop-color=\"#54371a\"/><stop offset=\"1\" stop-color=\"#e8c07c\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#bg)\"/><path d=\"M330 36 Q335 66 364 71 Q335 76 330 106 Q325 76 296 71 Q325 66 330 36Z\" fill=\"#181109\"/><path d=\"M368 112 Q370 122 380 124 Q370 126 368 136 Q366 126 356 124 Q366 122 368 112Z\" fill=\"#181109\"/><path d=\"M30 30 h220 a14 14 0 0 1 14 14 v96 a14 14 0 0 1 -14 14 h-170 l-26 22 v-22 h-24 a14 14 0 0 1 -14 -14 v-96 a14 14 0 0 1 14 -14 z\" fill=\"#181109\" stroke=\"#d4ff4f\" stroke-width=\"3\"/><text x=\"36\" y=\"84\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"26\" fill=\"#e8c07c\">OMR 25</text><line x1=\"33\" y1=\"75\" x2=\"138\" y2=\"75\" stroke=\"#79e0c8\" stroke-width=\"4\"/><text x=\"152\" y=\"82\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#f4f4f0\">AI said</text><text x=\"36\" y=\"138\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"38\" fill=\"#d4ff4f\">OMR 32</text><text x=\"196\" y=\"136\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#79e0c8\">today</text><text x=\"30\" y=\"207\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"16\" fill=\"#f4f4f0\">Is AI quoting your old price?</text></svg>",
+  "sources": [
+    {
+      "id": "google-ai-features",
+      "label": "Google Search Central: AI features and your website",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features",
+      "kind": "vendor"
+    },
+    {
+      "id": "openai-bots",
+      "label": "OpenAI: Overview of OpenAI crawlers (OAI-SearchBot)",
+      "url": "https://developers.openai.com/api/docs/bots",
+      "kind": "vendor"
+    },
+    {
+      "id": "google-business-guidelines",
+      "label": "Google Business Profile Help: Guidelines for representing your business on Google",
+      "url": "https://support.google.com/business/answer/3038177",
+      "kind": "vendor"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "More of your customers now ask an AI assistant, not a search box, where to eat, stay or get their hair done. The assistant answers in one confident paragraph, using whatever facts it can find about you, including the outdated ones. When those facts are wrong, you pay for it in surprise discounts, awkward chats and bookings that quietly go elsewhere."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-screenshot-at-the-front-desk",
+      "text": "The screenshot at the front desk"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Take Ibrahim, a composite example. He runs a six-room guesthouse in Nizwa with his brother and one cleaner. One evening in October, a couple from Lyon arrives and holds up a phone. An AI assistant had told them a double room costs OMR 25 a night with breakfast, and that check-in starts at 12 noon."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "His real rate is OMR 32, and check-in is at 2pm. He honours the price, because arguing with tired guests at the door is bad for reviews. The next week it happens again. Ibrahim has not offered OMR 25 all season, so where did the assistant get it? The answer, and the fix that took him a single evening, come further down."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "how-ai-assistants-find-your-answers",
+      "text": "How AI assistants find your answers"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "An AI assistant is a tool like ChatGPT, Gemini or the AI answers at the top of Google that replies in full sentences instead of a list of links. When someone asks about a business, many of these tools look things up on the web first, then write a summary from what they found."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "So they read the same places your customers do: your website, your Google listing, booking sites, social posts and reviews. "
+        },
+        {
+          "text": "Google's own guidance for site owners",
+          "href": "https://developers.google.com/search/docs/appearance/ai-features"
+        },
+        {
+          "text": " says no special tricks or AI files are needed to appear in its AI answers. What it asks for is plain: pages search engines can reach, important information written as text, and a Business Profile kept up to date."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "OpenAI says something similar for ChatGPT search. It uses its own crawler (a program that visits and reads web pages), and "
+        },
+        {
+          "text": "sites that block that crawler",
+          "href": "https://developers.openai.com/api/docs/bots"
+        },
+        {
+          "text": " will not show up in ChatGPT search answers."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "If your website says one price and your Instagram says another, the assistant has to pick one, and it has no way of knowing which one is current."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "where-the-old-price-came-from",
+      "text": "Where the old price came from"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "When Ibrahim looked his own guesthouse up the way a stranger would, he found his facts scattered across five places. They did not agree."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Place",
+        "What it said",
+        "Last touched"
+      ],
+      "rows": [
+        [
+          "English website page",
+          "OMR 32, check-in 2pm",
+          "This season"
+        ],
+        [
+          "Arabic website page",
+          "OMR 25, check-in 12 noon",
+          "Two winters ago"
+        ],
+        [
+          "Google listing",
+          "Open 24 hours, no price",
+          "Never checked"
+        ],
+        [
+          "Pinned Instagram post",
+          "Winter special, OMR 25 with breakfast",
+          "Two winters ago"
+        ],
+        [
+          "Price list",
+          "A photo of a printed sheet",
+          "Nobody remembers"
+        ]
+      ],
+      "caption": "Composite example: one guesthouse, five versions of the truth."
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Nothing on that list is a lie. Each line was true once. But an assistant reading it sees OMR 25 in two places written clearly, OMR 32 in one, and a price list locked inside a photo it may not read at all. Faced with that, repeating the older number is an easy mistake to make."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-a-wrong-answer-costs",
+      "text": "What a wrong answer costs"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "It is tempting to shrug this off as a tech problem. Put numbers on it and it looks different. Here is Ibrahim's month, with composite figures you can swap for your own."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Item",
+        "How to work it out",
+        "Monthly cost"
+      ],
+      "rows": [
+        [
+          "Guests holding the old price",
+          "4 bookings x 2 nights x OMR 7 difference",
+          "OMR 56"
+        ],
+        [
+          "Chats correcting wrong answers",
+          "25 chats x 5 minutes each",
+          "About 2 hours of evenings"
+        ],
+        [
+          "Guests who booked elsewhere because the assistant found no parking details",
+          "3 bookings x 2 nights x OMR 32",
+          "OMR 192"
+        ],
+        [
+          "Total",
+          "Add the money lines",
+          "OMR 248 plus 2 hours"
+        ]
+      ],
+      "caption": "Redo this with your own prices, booking sizes and chat counts."
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "For a boutique, a salon or a tuition centre the lines change, but the shape stays the same: a discount you never planned, chats you should not have to answer, and customers who went to the place with clearer information."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-one-evening-fix",
+      "text": "The one-evening fix"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Ibrahim's way out was not a new website. It was one page and an hour of tidying. Here is what he did, in order."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Wrote one facts page. ",
+            "strong": true
+          },
+          {
+            "text": "He called it \"Rates, check-in and parking\" and gave every fact its own short sentence: \"A double room costs OMR 32 per night, including breakfast.\" \"Check-in is from 2pm. Check-out is by 12 noon.\" \"Free parking for four cars is in front of the building.\""
+          }
+        ],
+        [
+          {
+            "text": "Answered the real questions. ",
+            "strong": true
+          },
+          {
+            "text": "He scrolled his WhatsApp chats, copied the questions people actually ask, and answered each in a sentence that makes sense on its own."
+          }
+        ],
+        [
+          {
+            "text": "Put a date on it. ",
+            "strong": true
+          },
+          {
+            "text": "A line at the bottom says \"Prices checked October 2026\", so people and tools can see the page is current."
+          }
+        ],
+        [
+          {
+            "text": "Made the Arabic page match. ",
+            "strong": true
+          },
+          {
+            "text": "Same prices, same times, same parking. A translation, not a separate version that drifts."
+          }
+        ],
+        [
+          {
+            "text": "Typed out the price list. ",
+            "strong": true
+          },
+          {
+            "text": "The photo stayed, but the prices now also appear as plain text."
+          }
+        ],
+        [
+          {
+            "text": "Matched everything else. ",
+            "strong": true
+          },
+          {
+            "text": "He corrected his hours on the "
+          },
+          {
+            "text": "Google Business Profile",
+            "href": "https://support.google.com/business/answer/3038177"
+          },
+          {
+            "text": ", unpinned the old Instagram post and edited its caption to say the offer has ended, and checked his booking site rates."
+          }
+        ],
+        [
+          {
+            "text": "Asked his web person one question. ",
+            "strong": true
+          },
+          {
+            "text": "\"Does our site block any search or AI crawlers?\" It did not, but five minutes to know for sure was worth it."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Assistants do not update the moment you do, because they have to visit your pages again. But from that evening on, every place a tool might look told the same story."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "I didn't need to be clever for the computer. I needed to stop telling five different stories about my own prices.",
+      "attribution": "Ibrahim, guesthouse owner, Nizwa (composite)",
+      "persona": true
+    },
+    {
+      "type": "highlight",
+      "text": "Write every important fact as a sentence a stranger could copy word for word and still get right."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "You do not need to understand how AI works to be quoted correctly by it. You need one place where your facts are written plainly, and every other place needs to agree with it."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Start with the facts that cost money when they are wrong: prices, opening hours, location, booking and cancellation rules, delivery areas and what is included. Write them as full sentences. \"Open daily\" is vague. \"Open Saturday to Thursday, 9am to 10pm, and Friday from 4pm\" is something an assistant can quote."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "If your site already has a page of common questions, turn it into your facts page; "
+        },
+        {
+          "text": "the ten questions every website gets asked",
+          "href": "/blog/ten-questions-every-website-gets-asked/"
+        },
+        {
+          "text": " make a good starting list. If you publish in Arabic and English, keep both versions in step, as we covered in "
+        },
+        {
+          "text": "one site, two languages",
+          "href": "/blog/one-site-two-languages/"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "tip",
+      "title": "Your ten-minute test",
+      "paragraphs": [
+        "1. Open two AI assistants and ask each: \"How much does [your main service] cost at [your business name] in [your area]?\"",
+        "2. Then ask: \"What are their hours on Friday?\" and \"Is there parking?\"",
+        "3. Write down every answer that is wrong, old or missing.",
+        "4. For each one, find where it came from: an old post, the other language page, a listing or a photo.",
+        "5. Fix that source, then add the correct fact as one clear sentence on your facts page."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "brand",
+      "title": "The same page can answer your chats",
+      "paragraphs": [
+        "The facts page you write for assistants is exactly what a chat assistant needs too. Chatbot.OM answers website and WhatsApp messages from your own written prices and policies, so the customer who messages at midnight gets the same answer the page gives."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Do I need special AI files or code on my website?",
+          "a": "Google says no special files or markup are needed for its AI answers. Clear text pages that search engines can reach are what count."
+        },
+        {
+          "q": "How long until assistants pick up my changes?",
+          "a": "There is no fixed time. The tools have to visit your pages again, which can take days or weeks. Fixing the old sources as well helps, so nothing contradicts the new page."
+        },
+        {
+          "q": "Should I delete old Instagram offers?",
+          "a": "You do not have to. Unpin them and edit the caption to say the offer has ended, with the date it ended."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Customers who ask an AI assistant still end up at your door or in your WhatsApp, carrying whatever facts it gave them. Write your prices, hours and rules once, plainly, and make every other listing agree. An assistant can only quote what you have written down clearly."
+        }
+      ]
+    }
+  ]
+}
