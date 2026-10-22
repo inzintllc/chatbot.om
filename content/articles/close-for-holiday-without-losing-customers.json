@@ -1,0 +1,383 @@
+{
+  "id": "article-2026-10-22-eid-break-coverage",
+  "taskId": "2026-10-22-eid-break-coverage",
+  "slug": "close-for-holiday-without-losing-customers",
+  "title": "Close for the Holiday Without Losing Customers",
+  "seoTitle": "Close for the Holiday Without Losing Customers",
+  "excerpt": "She closed for five days over Eid and came back to 140 unread chats. Here is the one-week countdown that keeps your chairs, tables and classes full while the team rests.",
+  "seoDescription": "A one-week countdown for small teams to close for the holiday without losing customers: away messages, booking links, Google hours and the first morning back.",
+  "series": "Small Team Playbook",
+  "category": "Running a Small Team",
+  "topic": "Take the Eid Break Without Losing Customers",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-22",
+  "modifiedDate": "2026-10-22",
+  "reviewedDate": "2026-10-22",
+  "reviewBy": "2027-01-20",
+  "status": "published",
+  "tags": [
+    "Small Team Playbook",
+    "Eid",
+    "National Day",
+    "WhatsApp Business",
+    "away message",
+    "bookings",
+    "salons",
+    "holiday planning"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\"><stop offset=\"0\" stop-color=\"#2c0a0d\"/><stop offset=\"0.55\" stop-color=\"#7a1c22\"/><stop offset=\"1\" stop-color=\"#f1a09a\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#bg)\"/><rect x=\"266\" y=\"26\" width=\"100\" height=\"176\" rx=\"16\" fill=\"#1a0507\" stroke=\"#f4f4f0\" stroke-width=\"3\"/><rect x=\"276\" y=\"42\" width=\"80\" height=\"144\" rx=\"6\" fill=\"#2c0a0d\"/><circle cx=\"316\" cy=\"76\" r=\"18\" fill=\"#e8c07c\"/><circle cx=\"325\" cy=\"70\" r=\"16\" fill=\"#2c0a0d\"/><rect x=\"284\" y=\"108\" width=\"58\" height=\"18\" rx=\"9\" fill=\"#79e0c8\"/><rect x=\"290\" y=\"134\" width=\"60\" height=\"20\" rx=\"10\" fill=\"#d4ff4f\"/><text x=\"320\" y=\"148\" font-family=\"Arial, sans-serif\" font-size=\"11\" font-weight=\"bold\" fill=\"#2c0a0d\" text-anchor=\"middle\">Booked</text><rect x=\"284\" y=\"162\" width=\"44\" height=\"14\" rx=\"7\" fill=\"#79e0c8\"/><text x=\"24\" y=\"98\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#f4f4f0\">5 DAYS OFF</text><rect x=\"24\" y=\"112\" width=\"64\" height=\"5\" fill=\"#d4ff4f\"/><text x=\"24\" y=\"142\" font-family=\"Arial, sans-serif\" font-size=\"15\" fill=\"#e8c07c\">Bookings keep coming in</text></svg>",
+  "sources": [
+    {
+      "id": "oman-observer-2026-holidays",
+      "label": "Oman Observer: Except for Eids, Oman announces public holidays for 2026",
+      "url": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026",
+      "kind": "media"
+    },
+    {
+      "id": "oman-observer-eid-adha-2026",
+      "label": "Oman Observer: Eid Al Adha holidays announced in Oman (public and private sectors, 26 to 30 May 2026)",
+      "url": "https://www.omanobserver.om/article/1189816/oman/community/eid-al-adha-holidays-announced-in-oman",
+      "kind": "media"
+    },
+    {
+      "id": "google-special-hours",
+      "label": "Google Business Profile Help: How to set special hours",
+      "url": "https://support.google.com/business/answer/6303076",
+      "kind": "vendor"
+    },
+    {
+      "id": "national-ramadan-2027",
+      "label": "The National: Expected Ramadan 2027 dates and Eid Al Fitr holiday",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/06/ramadan-2027-uae-dates-eid-al-fitr-holiday/",
+      "kind": "media"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Last Eid, Maryam closed her four-chair salon for five days and came back to 140 unread chats. About twenty of them were bookings she never got, and a few regulars behind them did not come back that month either. Whether your next break is the National Day holiday or Eid al-Fitr, here is how to close for the holiday without losing customers."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "five-days-that-cost-a-month",
+      "text": "The five days that cost a month"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Maryam is a composite example, built from salon owners like her. She runs a salon in Al Khoudh with three stylists and takes most bookings on her own phone. For Eid al-Adha this year, the holiday for public and private sector employees "
+        },
+        {
+          "text": "ran from Tuesday 26 May to Saturday 30 May",
+          "href": "https://www.omanobserver.om/article/1189816/oman/community/eid-al-adha-holidays-announced-in-oman"
+        },
+        {
+          "text": ". Her team had earned it after the pre-Eid rush, so she locked the door and put the phone in a drawer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "On Sunday morning the phone held 140 unread chats. Voice notes asking \"indkum maw'id yom al ahad?\", a \"Hi, slot for 3 ladies Sunday?\", photos of hairstyles, a bride asking about a June date, two tourists asking in English if she was open. Most people had written once and never followed up. They had not waited. They had booked somewhere that answered."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-the-closed-days-really-cost",
+      "text": "What the closed days really cost"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Here is Maryam's rough maths. Redo it with your own numbers: how many new chats arrive in a normal five days, how many usually become a booking, and what a first visit is worth to you."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Composite example. Swap each figure for your own.",
+      "headers": [
+        "What to count",
+        "Maryam's salon"
+      ],
+      "rows": [
+        [
+          "New enquiries during the five closed days",
+          "60"
+        ],
+        [
+          "Share that normally becomes a booking",
+          "1 in 3, so 20 bookings"
+        ],
+        [
+          "Average first visit",
+          "OMR 18"
+        ],
+        [
+          "First visits lost (20 x OMR 18)",
+          "OMR 360"
+        ],
+        [
+          "Regulars who tried another salon and stayed there that month",
+          "4 x OMR 25 = OMR 100"
+        ],
+        [
+          "Cost of five silent days",
+          "about OMR 460"
+        ]
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "The holiday does not cost you the days you are closed; it costs you the customers who messaged while you were away and heard nothing back."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "why-an-away-message-is-not-enough",
+      "text": "Why an away message alone is not enough"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Maryam had tried the obvious fix the Eid before: a WhatsApp Business away message saying \"Closed for Eid, back soon.\" It helped a little. But \"back soon\" is not a date, and it gives the customer nothing to do except go elsewhere."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "Back soon is not a date, and a customer with no date books somewhere else."
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The customers who matter most over a holiday are the ones ready to book right now. A good closure plan gives them a way to book for the first days back, answers the three or four questions they always ask, and tells them exactly when a person will reply. What finally did that for Maryam comes at the end. First, the countdown."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-countdown-one-week-out",
+      "text": "The countdown, one week out"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Start seven days before your last working day. Each step takes minutes, not hours."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "strong": true,
+            "text": "Seven days out: "
+          },
+          {
+            "text": "fix your closed dates and check them against the official announcement. This year's National Day holiday, 25 and 26 November, was "
+          },
+          {
+            "text": "published in advance",
+            "href": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026"
+          },
+          {
+            "text": ". Eid dates are only confirmed after the moon sighting, so plan for a day either side."
+          }
+        ],
+        [
+          {
+            "strong": true,
+            "text": "Six days out: "
+          },
+          {
+            "text": "open your calendar for the first three days back and start filling it. Message regulars directly: \"We close on the 25th. Want your usual slot on the 29th?\""
+          }
+        ],
+        [
+          {
+            "strong": true,
+            "text": "Five days out: "
+          },
+          {
+            "text": "send one message to customers who have agreed to hear from you, with your closing dates and how to book. One message, not three."
+          }
+        ],
+        [
+          {
+            "strong": true,
+            "text": "Four days out: "
+          },
+          {
+            "text": "set "
+          },
+          {
+            "text": "special hours on your Google Business Profile",
+            "href": "https://support.google.com/business/answer/6303076"
+          },
+          {
+            "text": ", which covers closures of up to six days in a row, then update your Instagram bio and the top of your website."
+          }
+        ],
+        [
+          {
+            "strong": true,
+            "text": "Three days out: "
+          },
+          {
+            "text": "write the away message (template below) and set it on a custom schedule so it switches on and off by itself."
+          }
+        ],
+        [
+          {
+            "strong": true,
+            "text": "Two days out: "
+          },
+          {
+            "text": "settle anything half finished: deposits, orders waiting for delivery, promised call-backs. Write down who is owed what."
+          }
+        ],
+        [
+          {
+            "strong": true,
+            "text": "Last day: "
+          },
+          {
+            "text": "test the away message from a friend's phone, and agree who checks messages during the break, how often and for how long."
+          }
+        ],
+        [
+          {
+            "strong": true,
+            "text": "First morning back: "
+          },
+          {
+            "text": "reply to bookings and payments first, then complaints, then everything else. Oldest first within each group."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "A message that works says when you close, when you reopen, how to book now and what to do if it cannot wait. For example: \"Eid Mubarak from all of us. We are closed from [first day] to [last day] and open again on [day and date]. Book your first-week slot here: [booking link]. Bridal enquiries: send a voice note with your date and we will reply first thing on [date].\""
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-kept-maryams-chairs-full",
+      "text": "What finally kept Maryam's chairs full"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "For the National Day break, Maryam is doing three things differently. Her away message now has dates and a booking link. Her first three days back are already half full from regulars she messaged a week early. And the routine questions (prices, opening dates, whether she does keratin) no longer wait for her at all."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "That last part is where automation earns its place. An away message can only repeat one sentence. A chat assistant can answer the price question, understand a voice note in Omani Arabic, take the booking for the 29th and save the bride's enquiry so Maryam can reply to it herself. Chatbot.OM does this on WhatsApp and the website around the clock. If you have never listed the questions you answer every day, "
+        },
+        {
+          "text": "start with the twenty that repeat",
+          "href": "/blog/automate-twenty-questions-keep-hard-ones/"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "I used to dread the first morning back more than the rush before Eid. Now the week is booked before we close.",
+      "attribution": "Maryam, salon owner, Al Khoudh (composite)",
+      "persona": true
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "If your team is two to ten people, you cannot let the phone go silent, and you cannot run a team that never rests. The answer is a closure that keeps working: a date, a booking link, answers to the usual questions, and a clear time when a person will reply."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Pick your next break now. If you stay open for National Day, as many restaurants and salons will, your long closure is probably Eid al-Fitr, expected around 9 or 10 March 2027, subject to the official moon sighting announcement. Put a reminder in your phone for seven days before it."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "tip",
+      "title": "Your two-minute check",
+      "paragraphs": [
+        "Tonight, send your own business a WhatsApp from another phone and read what comes back.",
+        "Does it say exactly when you reopen?",
+        "Does it give the customer a way to book without waiting for you?",
+        "Do your Google hours match what the message says?",
+        "If any answer is no, fix that one thing before the weekend."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Should I answer chats during the holiday at all?",
+          "a": "If you do, set a limit: one check a day, fifteen minutes, bookings and urgent issues only. Replying at midnight on Eid teaches customers to expect it every holiday."
+        },
+        {
+          "q": "What if the Eid dates move by a day?",
+          "a": "Write your reopening date only once the official announcement is out, and use a custom schedule you can shift in a minute."
+        },
+        {
+          "q": "Can I message every contact about my closing dates?",
+          "a": "Message customers who have agreed to hear from you. A closure notice to people who never opted in reads as spam and can get your number reported."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Five closed days do not have to cost you the month. Give customers a date, a way to book and answers to the usual questions, and everything else can wait. Your team gets the holiday, and your calendar is full the morning you come back."
+        }
+      ]
+    }
+  ]
+}
