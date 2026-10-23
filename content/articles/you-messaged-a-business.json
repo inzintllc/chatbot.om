@@ -1,0 +1,463 @@
+{
+  "id": "article-2026-10-23-you-messaged-a-business",
+  "taskId": "2026-10-23-you-messaged-a-business",
+  "slug": "you-messaged-a-business",
+  "title": "You Messaged a Business. Here Is What Should Happen",
+  "seoTitle": "Messaged a Business and Heard Nothing? Your Rights",
+  "excerpt": "Rawya paid OMR 42, the vacuum died on day three, and the shop that replied in four minutes before she paid went silent. Here is what should have happened, and the script that fixed it.",
+  "seoDescription": "You messaged a business and got blue ticks, then silence. What a good chat looks like, your 15-day consumer rights, and a polite script that gets a reply.",
+  "series": "The Friday Story",
+  "category": "Work & Life",
+  "topic": "You Messaged a Business. Here Is What Should Happen",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-23",
+  "modifiedDate": "2026-10-23",
+  "reviewedDate": "2026-10-23",
+  "reviewBy": "2027-01-21",
+  "status": "published",
+  "tags": [
+    "consumer rights",
+    "WhatsApp",
+    "customer complaints",
+    "online shopping",
+    "refunds",
+    "small business",
+    "The Friday Story"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\"><stop offset=\"0\" stop-color=\"#2c0a0d\"/><stop offset=\"0.55\" stop-color=\"#7a1c22\"/><stop offset=\"1\" stop-color=\"#f1a09a\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#bg)\"/><path d=\"M232 46h134a14 14 0 0 1 14 14v70a14 14 0 0 1-14 14h-96l-26 22v-22h-12a14 14 0 0 1-14-14v-70a14 14 0 0 1 14-14z\" fill=\"#2c0a0d\" stroke=\"#e8c07c\" stroke-width=\"3\"/><rect x=\"236\" y=\"66\" width=\"110\" height=\"10\" rx=\"5\" fill=\"#e8c07c\"/><rect x=\"236\" y=\"86\" width=\"80\" height=\"10\" rx=\"5\" fill=\"#e8c07c\"/><text x=\"236\" y=\"128\" font-family=\"Arial, sans-serif\" font-size=\"12\" fill=\"#f4f4f0\">10:40 pm</text><polyline points=\"314,118 321,125 334,110\" fill=\"none\" stroke=\"#79e0c8\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><polyline points=\"325,123 327,125 340,110\" fill=\"none\" stroke=\"#79e0c8\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"20\" y=\"90\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#f4f4f0\">SEEN.</text><text x=\"20\" y=\"132\" font-family=\"Arial, sans-serif\" font-size=\"34\" font-weight=\"bold\" fill=\"#d4ff4f\">NO REPLY.</text><text x=\"20\" y=\"168\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#e8c07c\">When a seller goes quiet</text></svg>",
+  "sources": [
+    {
+      "id": "cpa-hema",
+      "label": "Consumer Protection Authority: HEMA complaints portal (requirements, hotlines)",
+      "url": "https://hema.cpa.gov.om/jw/web/userview/Omancpa/complaintModule/_/welcome",
+      "kind": "oman-official"
+    },
+    {
+      "id": "govom-complaint",
+      "label": "Gov.om: Submit a Complaint to the Consumer Protection Authority",
+      "url": "https://gov.om/en/w/submit-a-complaint-to-the-consumer-protection-authority",
+      "kind": "oman-official"
+    },
+    {
+      "id": "observer-articles",
+      "label": "Oman Observer: CPA circular reprinting Articles 14 and 16 of the Consumer Protection Law",
+      "url": "https://www.omanobserver.om/article/1108988/oman/community/cpa-warns-against-harassing-consumers",
+      "kind": "media"
+    },
+    {
+      "id": "lexis-ecommerce",
+      "label": "LexisNexis Middle East: Oman's new e-commerce regulations to protect consumer rights (October 2024)",
+      "url": "https://www.lexis.ae/2024/10/31/oman-new-ecommerce-regulations-to-protect-consumer-rights/",
+      "kind": "analysis"
+    },
+    {
+      "id": "arabianstories-hema",
+      "label": "The Arabian Stories: Consumer Protection Authority explains how to file complaints through Hema (August 2026)",
+      "url": "https://www.thearabianstories.com/2026/08/18/omans-consumer-protection-authority-explains-how-to-file-complaints-through-hema/",
+      "kind": "media"
+    },
+    {
+      "id": "arabianstories-free",
+      "label": "The Arabian Stories: Consumer Protection Authority says filing complaints is free (August 2026)",
+      "url": "https://www.thearabianstories.com/2026/08/20/oman-consumer-protection-authority-warns-of-online-fraud-says-filing-complaints-is-free/",
+      "kind": "media"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Rawya paid OMR 42 for a cordless vacuum from an Instagram shop, and on day three it stopped charging. She messaged a business that had answered her in four minutes while she was buying, and this time she got two blue ticks and silence. Whether you have been Rawya or you run the shop that went quiet, here is what should have happened, what the law gives you, and the polite script that gets a reply."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "two-blue-ticks-on-a-tuesday",
+      "text": "Two blue ticks on a Tuesday"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Rawya is a composite character, a teacher in Al Khoudh, but her week will feel familiar. The vacuum arrived on Sunday 11 October. By Tuesday night the battery light only blinked. She sent a voice note, half Arabic and half English: \"Salam, the vacuum mafi charging, I tried another socket, shu al hal?\" Then a photo, then a short video."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The ticks turned blue at 10:40pm. Wednesday, nothing. Thursday, she sent a single question mark and felt rude doing it. By Friday she was telling her sisters' WhatsApp group the name of the shop."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "What Rawya did next, and what the shop owner changed afterwards, comes later. First, what a good business chat should look like."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-a-good-business-chat-looks-like",
+      "text": "What a good business chat looks like"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "You do not need a big company to get this right. A good chat with a two-person shop has the same shape as one with a large retailer, and it fits in six short steps."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "A quick acknowledgement. ",
+            "strong": true
+          },
+          {
+            "text": "Within minutes, even if the real answer takes longer: \"Received, we will check and reply by 6pm.\""
+          }
+        ],
+        [
+          {
+            "text": "A name. ",
+            "strong": true
+          },
+          {
+            "text": "\"This is Zahir from the shop\" tells you a person now owns your problem."
+          }
+        ],
+        [
+          {
+            "text": "One clear ask. ",
+            "strong": true
+          },
+          {
+            "text": "The order date, a photo, a video. Not five questions spread over three days."
+          }
+        ],
+        [
+          {
+            "text": "A real option. ",
+            "strong": true
+          },
+          {
+            "text": "Repair, replacement or refund, said plainly."
+          }
+        ],
+        [
+          {
+            "text": "A time. ",
+            "strong": true
+          },
+          {
+            "text": "\"The courier will collect on Saturday morning.\""
+          }
+        ],
+        [
+          {
+            "text": "A written close. ",
+            "strong": true
+          },
+          {
+            "text": "One last message confirming what was agreed, so nobody remembers it differently."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "A reply that says 'we have seen this, we will answer by 6pm' is worth more than a perfect answer three days later."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-the-law-gives-you",
+      "text": "What the law gives you as a customer"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Oman's Consumer Protection Law lists your rights in plain terms: correct information about what you buy, free choice, safe goods of proper quality, and fair compensation when something causes you harm."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The rule that matters for Rawya is the 15-day one. If an item is defective or does not match its description, you can ask to replace it, return it or get your money back within 15 days of receiving it, at no extra cost. You need proof of purchase, the fault must not come from misuse, and goods that spoil quickly are excluded. A bio line saying \"no returns\" "
+        },
+        {
+          "text": "does not cancel that right",
+          "href": "/blog/no-returns-sign/"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Online sellers have extra duties. Rules issued by the Ministry of Commerce, Industry and Investment Promotion in 2024 require sellers who sell remotely to show products accurately, state the delivery place, date and method, and publish a clear exchange and return policy. The Consumer Protection Authority, the government body that handles consumer complaints, has a separate e-commerce category for purchases made through a website or social media account."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "Silence is not a policy: the 15-day clock keeps running whether the seller reads your message or not."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-going-quiet-costs-the-seller",
+      "text": "What going quiet really costs the seller"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Shop owners, read this part twice. Fixing Rawya's problem on Tuesday night would have been cheap. Ignoring it was not. The numbers below are illustrative, for a composite small online shop."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Cost",
+        "Reply the same day",
+        "Go quiet until a complaint"
+      ],
+      "rows": [
+        [
+          "Replacement battery",
+          "OMR 9",
+          "OMR 0"
+        ],
+        [
+          "Courier",
+          "OMR 2",
+          "OMR 2 (return pickup)"
+        ],
+        [
+          "Loss on the returned unit (OMR 42 refunded, resold opened for OMR 22)",
+          "OMR 0",
+          "OMR 20"
+        ],
+        [
+          "This customer's future orders (about OMR 90 a year)",
+          "Kept",
+          "OMR 90 lost"
+        ],
+        [
+          "Total",
+          "OMR 11",
+          "OMR 112, plus the family group chat"
+        ]
+      ],
+      "caption": "Composite example. Redo it with your own part cost, courier fee and what a regular customer spends with you in a year."
+    },
+    {
+      "type": "quote",
+      "quote": "Her message was not ignored. It was buried under two hundred others from the weekend sale.",
+      "attribution": "Zahir, online home appliance seller, Barka",
+      "persona": true
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "when-you-have-messaged-a-business-and-heard-nothing",
+      "text": "When you have messaged a business and heard nothing"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "On Saturday morning Rawya stopped sending question marks and followed a simple ladder. Each step is polite, written and dated."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "The day you find the fault, send one complete message: ",
+            "strong": true
+          },
+          {
+            "text": "\"Salam, I ordered the cordless vacuum on 8 October for OMR 42, paid by transfer (receipt attached). It arrived on 11 October and stopped charging on 13 October. Video attached. I would like a replacement or a refund. Can you confirm by tomorrow?\""
+          }
+        ],
+        [
+          {
+            "text": "After 48 hours, a friendly nudge: ",
+            "strong": true
+          },
+          {
+            "text": "\"Following up on my message from Tuesday about the vacuum. I would much rather sort this directly with you.\""
+          }
+        ],
+        [
+          {
+            "text": "Around day five, the formal note: ",
+            "strong": true
+          },
+          {
+            "text": "\"Under the Consumer Protection Law I can ask for a replacement or refund for a defective item within 15 days of receiving it. Please reply by Sunday 18 October with which you will offer.\""
+          }
+        ],
+        [
+          {
+            "text": "Still silent? File a complaint. ",
+            "strong": true
+          },
+          {
+            "text": "The Consumer Protection Authority takes complaints through its online portal, free of charge. Have your civil ID, the invoice or transfer receipt and your screenshots ready, and choose e-commerce if you bought through a website or social media."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Rawya sent the formal note at 9am. Zahir replied in 40 minutes, with an apology and a courier booked for Sunday."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-the-seller-changed",
+      "text": "What the seller changed after Rawya"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Zahir, also a composite, runs the shop from his phone with his brother. His weekend sale brought more than 200 chats, and Rawya's voice note slid under a pile of \"price?\" messages within an hour. Nobody decided to ignore her. Nobody owned her message either. So he changed five things:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "An away message in WhatsApp Business that says when a person will answer."
+          }
+        ],
+        [
+          {
+            "text": "A \"Problem\" label on every fault chat, checked first each morning and evening."
+          }
+        ],
+        [
+          {
+            "text": "A rule that every complaint gets a first human reply the same working day."
+          }
+        ],
+        [
+          {
+            "text": "A written return policy in his Instagram bio and catalogue that matches the 15-day rule."
+          }
+        ],
+        [
+          {
+            "text": "A simple list of every complaint and how it ended, so a busy weekend cannot erase one."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "brand",
+      "title": "Where Chatbot.OM fits",
+      "paragraphs": [
+        "If fault reports keep sinking under new enquiries, Chatbot.OM answers your website and WhatsApp around the clock and turns a complaint chat into a ticket with a follow-up, so it stays open until someone closes it."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "As a customer, send one full message early, with dates, the amount, a photo and what you want. Do not wait out the 15 days hoping for a reply. Be polite, be specific, and put a date on your request."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "If you run the shop, the fix is not answering everything instantly. It is acknowledging fast, giving a time, and making sure complaint chats cannot drown under sales chats. One blue tick with no words is the most expensive reply you can send."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "tip",
+      "title": "Your two-minute check",
+      "paragraphs": [
+        "Owners: message your own business number from a friend's phone tonight and time the first reply.",
+        "Owners: search your chats for \"not working\", \"broken\" and \"refund\". Is any of them unanswered?",
+        "Owners: can a customer find your return policy before they pay?",
+        "Customers: screenshot the listing and keep the transfer receipt before the item even arrives."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Can I complain about an Instagram or WhatsApp shop?",
+          "a": "Yes, if the business holds an Omani commercial licence. The authority's portal has an e-commerce option for purchases made through websites and social media."
+        },
+        {
+          "q": "Is a voice note enough as evidence?",
+          "a": "Keep it, but follow up in writing with the dates, the amount and what you are asking for. Written messages are easier to attach to a complaint."
+        },
+        {
+          "q": "What if I simply changed my mind?",
+          "a": "The 15-day right covers defective or non-matching goods. Change-of-mind returns depend on the shop's own policy, which online sellers must state clearly."
+        },
+        {
+          "q": "Does filing a complaint cost anything?",
+          "a": "No. The authority says filing is free and warns that anyone asking for a fee is likely a scammer. Its hotlines are 80079009 and 80077997."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "A good business chat is simple: acknowledge, name, ask once, offer, give a time, confirm. Customers have real rights when a seller goes quiet, and a calm written ladder usually gets a reply long before a complaint is needed. Rawya got her new battery on Sunday. Zahir got a customer who still orders from him."
+        }
+      ]
+    }
+  ]
+}
