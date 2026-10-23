@@ -1,7 +1,7 @@
 # chatbot.om
 
 Marketing site for chatbot.om, Oman's sovereign AI chatbot for websites and
-WhatsApp. Next.js App Router, Tailwind v4, deployed on Netlify.
+WhatsApp. Next.js App Router, Tailwind v4, deployed on Vercel.
 
 It is the sister site of [customercare.om](https://customercare.om) (the
 `voxcare-static` repository). The two share a design system deliberately: the
@@ -59,19 +59,19 @@ There is one public URL per page. Agents get Markdown from that same address:
 curl -H "Accept: text/markdown" https://chatbot.om/product/smart-follow-ups/
 ```
 
-Negotiation is handled by `netlify/edge-functions/markdown.ts`, which appends
-`Vary: Accept` to both variants and sets the content type on the Markdown,
-`llms.txt`, and `llms-full.txt`. Pages with no twin fall through to HTML.
+Negotiation is handled by `src/middleware.ts`, which appends
+`Vary: Accept` to both variants and sets the content type on the Markdown; `next.config.ts` sets it on
+`llms.txt` and `llms-full.txt`. Pages with no twin fall through to HTML.
 
-The `.md` files are the payload, not a second address: the edge function reaches
-them through an internal rewrite, and a direct request for one is redirected
+The `.md` files are the payload, not a second address: the middleware reaches
+them through an internal fetch, and a direct request for one is redirected
 `301` to the page it belongs to. There is deliberately no
 `<link rel="alternate" type="text/markdown">`, because there is no separate
 Markdown URL for it to point at.
 
 `<link rel="canonical">` comes from `src/lib/meta.ts` via the Next Metadata API
 rather than the post-build pass, because a server render leaves no HTML file to
-patch. `pageMeta()`, the generator and the edge function all have to agree on
+patch. `pageMeta()`, the generator and the middleware all have to agree on
 the twin mapping: `/about/` maps to `/about.md`, `/` maps to `/index.md`.
 
 ## Positioning
@@ -89,20 +89,19 @@ The route uses SMTP settings and `CTA_OWNER_EMAILS` to email the owner with the
 submitted website. Note that posting to it really does send mail, so avoid
 exercising it against an environment that has live SMTP credentials.
 
-## Deploy to Netlify
+## Deploy to Vercel
 
-`netlify.toml` holds the production build settings:
-
-- Build command: `npm run build`
-- Publish directory: `.next`
-- Node.js: 22
+The project lives in the `inzintllc` Vercel account and deploys from
+`inzintllc/chatbot.om` on GitHub: pushes to `main` go to production, other
+branches get preview URLs. Vercel detects Next.js, so there is no `vercel.json`;
+the build runs `npm run build` on Node.js 22. Response headers for the
+discovery files live in `next.config.ts`.
 
 The site is not a static export, because `/api/install-request` needs a
-server. Netlify's OpenNext adapter deploys the route as a serverless function
-under framework detection, so no plugin is pinned.
+server. Vercel deploys the route as a serverless function.
 
-Before the first production deploy, add these environment variables in
-**Project configuration → Environment variables**:
+Set these environment variables in **Project → Settings → Environment
+Variables** for Production, Preview and Development:
 
 ```text
 SMTP_HOST
@@ -111,12 +110,16 @@ SMTP_USER
 SMTP_PASS
 SMTP_FROM
 CTA_OWNER_EMAILS
+NEXT_PUBLIC_APP_URL
 ```
 
 `CTA_OWNER_EMAILS` accepts one address or a comma-separated list. Keep
-`NEXT_PUBLIC_API_URL` unset so the form calls the same Netlify origin; only set
+`NEXT_PUBLIC_API_URL` unset so the form calls the same origin; only set
 it when intentionally hosting the API on a different domain.
 
+DNS for chatbot.om is on Vercel DNS (`ns1.vercel-dns.com`, `ns2.vercel-dns.com`,
+set at the Ooredoo registrar). The zone also holds the Zoho Mail MX, SPF, DKIM
+and verification records.
 
-After deployment, submit the install form once and confirm that the Netlify
-function logs show a successful request and that the owner email arrives.
+After deployment, submit the install form once and confirm that the function
+logs show a successful request and that the owner email arrives.
