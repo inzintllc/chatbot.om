@@ -19,12 +19,6 @@ const nextConfig: NextConfig = {
   // otherwise get a content type guessed from their extension.
   async headers() {
     return [
-      // Pages can also be served as Markdown by src/middleware.ts, so caches
-      // must key on Accept. Next.js drops a Vary set in middleware.
-      {
-        source: "/((?!_next/|api/|hero/|teasers/|.*\\.[a-zA-Z0-9]+$).*)",
-        headers: [{ key: "Vary", value: "Accept" }],
-      },
       {
         source: "/blog/feed.xml",
         headers: [

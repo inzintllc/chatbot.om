@@ -115,7 +115,9 @@ export async function middleware(request: NextRequest) {
         const cacheControl = fetched.headers.get("cache-control");
         if (cacheControl) headers.set("cache-control", cacheControl);
         addVary(headers);
-        return new NextResponse(request.method === "HEAD" ? null : fetched.body, {
+        // HEAD keeps the body too: the platform drops it, and a null body
+        // would also drop the content type.
+        return new NextResponse(fetched.body, {
           status: 200,
           headers,
         });
@@ -124,6 +126,9 @@ export async function middleware(request: NextRequest) {
   }
 
   // Assets keep their own headers; pages advertise that they vary by Accept.
+  // Prerendered HTML ends up with the Vary Next.js computes, which leaves out
+  // Accept. That is safe here because negotiation happens in this middleware,
+  // ahead of the CDN cache, and browsers never ask for Markdown.
   return twinFor(pathname) ? passThrough() : NextResponse.next();
 }
 
