@@ -1,0 +1,463 @@
+{
+  "id": "article-2026-10-24-national-day-offers-chat",
+  "taskId": "2026-10-24-national-day-offers-chat",
+  "slug": "national-day-slots-booked-by-chat",
+  "title": "How to Fill Your National Day Slots by Chat",
+  "seoTitle": "Fill Your National Day Offer Slots by Chat, Not Calls",
+  "excerpt": "Ninety messages in one night, and 38 empty chairs by the end of the holiday. Here is how a small team turns National Day questions into booked slots.",
+  "seoDescription": "Selling time, not stock? Design a National Day offer customers can book by chat, with saved replies, a live slot board and consented contacts from the rush.",
+  "series": "Ready for the Rush",
+  "category": "Oman Seasons & Peaks",
+  "topic": "National Day Offers Your Chat Can Actually Handle",
+  "author": "Chatbot.OM Editorial Team",
+  "publishDate": "2026-10-24",
+  "modifiedDate": "2026-10-24",
+  "reviewedDate": "2026-10-24",
+  "reviewBy": "2027-01-22",
+  "status": "published",
+  "tags": [
+    "National Day",
+    "promotions",
+    "WhatsApp Business",
+    "bookings",
+    "salons",
+    "saved replies",
+    "consent",
+    "small business"
+  ],
+  "ogImage": "/media/blog-og.png",
+  "thumbnail": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"400\" height=\"225\" viewBox=\"0 0 400 225\"><defs><linearGradient id=\"g\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#0d1f16\"/><stop offset=\"0.55\" stop-color=\"#1e4634\"/><stop offset=\"1\" stop-color=\"#8fd3a8\"/></linearGradient></defs><rect width=\"400\" height=\"225\" fill=\"url(#g)\"/><text x=\"24\" y=\"54\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"36\" fill=\"#d4ff4f\">108 SLOTS</text><text x=\"24\" y=\"80\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#f4f4f0\">National Day, booked by chat</text><path d=\"M306 22h66a8 8 0 0 1 8 8v28a8 8 0 0 1-8 8h-44l-14 12v-12h-8a8 8 0 0 1-8-8v-28a8 8 0 0 1 8-8z\" fill=\"#e8c07c\"/><text x=\"339\" y=\"55\" font-family=\"Arial, sans-serif\" font-weight=\"bold\" font-size=\"28\" fill=\"#0d1f16\" text-anchor=\"middle\">?</text><rect x=\"24\" y=\"96\" width=\"352\" height=\"112\" rx=\"12\" fill=\"#0d1f16\" fill-opacity=\"0.94\"/><g fill=\"#d4ff4f\"><rect x=\"40\" y=\"110\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"94\" y=\"110\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"148\" y=\"110\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"202\" y=\"110\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"310\" y=\"110\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"40\" y=\"142\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"148\" y=\"142\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"202\" y=\"142\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"256\" y=\"142\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"40\" y=\"174\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"94\" y=\"174\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"256\" y=\"174\" width=\"44\" height=\"26\" rx=\"5\"/></g><g fill=\"none\" stroke=\"#0d1f16\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M54 123l6 6l11-11\"/><path d=\"M108 123l6 6l11-11\"/><path d=\"M162 123l6 6l11-11\"/><path d=\"M216 123l6 6l11-11\"/><path d=\"M324 123l6 6l11-11\"/><path d=\"M54 155l6 6l11-11\"/><path d=\"M162 155l6 6l11-11\"/><path d=\"M216 155l6 6l11-11\"/><path d=\"M270 155l6 6l11-11\"/><path d=\"M54 187l6 6l11-11\"/><path d=\"M108 187l6 6l11-11\"/><path d=\"M270 187l6 6l11-11\"/></g><rect x=\"256\" y=\"110\" width=\"44\" height=\"26\" rx=\"5\" fill=\"#e8c07c\"/><g fill=\"none\" stroke=\"#79e0c8\" stroke-width=\"2\"><rect x=\"94\" y=\"142\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"310\" y=\"142\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"148\" y=\"174\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"202\" y=\"174\" width=\"44\" height=\"26\" rx=\"5\"/><rect x=\"310\" y=\"174\" width=\"44\" height=\"26\" rx=\"5\"/></g></svg>",
+  "sources": [
+    {
+      "id": "times-national-day-break",
+      "label": "Times of Oman: Oman announces 4-day National Day break in November",
+      "url": "https://timesofoman.com/article/178278-oman-announces-4-day-national-day-break-in-november",
+      "kind": "media"
+    },
+    {
+      "id": "observer-2026-holidays",
+      "label": "Oman Observer: Except for Eids, Oman announces public holidays for 2026",
+      "url": "https://www.omanobserver.om/article/1181777/oman/labour/except-for-eids-oman-announces-public-holidays-for-2026",
+      "kind": "media"
+    },
+    {
+      "id": "cms-pdpl-update",
+      "label": "CMS: Oman updates its Personal Data Protection Law",
+      "url": "https://cms.law/en/omn/legal-updates/oman-updates-its-personal-data-protection-law",
+      "kind": "analysis"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Zainab's salon got 90 WhatsApp messages the night she posted her National Day offer. She still finished the holiday with 38 empty slots, worth OMR 570. A full inbox and empty chairs in the same week sounds impossible, but it happens all the time, and if you start this week the fix costs almost nothing."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "two-peaks-this-year",
+      "text": "Two peaks this year, not one"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "National Day falls on Friday 20 November. The days off were announced early this year: Wednesday 25 and Thursday 26 November, which run into the weekend for a "
+        },
+        {
+          "text": "four-day break from 25 to 28 November",
+          "href": "https://timesofoman.com/article/178278-oman-announces-4-day-national-day-break-in-november"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "For a salon, restaurant, gym or guesthouse, that means two rushes. First the run-up to the 20th, when people want to look their best for the celebrations. Then the long break, when families are free and making plans. If you sell time instead of things, your stock is your appointment book, and it sells out one hour at a time."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-went-wrong",
+      "text": "What went wrong at Zainab's salon"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Zainab is a composite example. She runs a three-chair salon in Al Hail with two stylists. Last November she posted \"National Day package, blow-dry and henna, OMR 15\" on Instagram and her WhatsApp status at 9 pm. By midnight she was getting the same five questions over and over: the price, which days, how long it takes, whether Thursday afternoon was free, and whether her sister could come too."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Customers wrote the way people here write: \"Any slot Friday evening? انا واختي\", plus a voice note asking \"عندكم موعد الخميس العصر؟\". Zainab replied from memory between clients. Her stylist replied too, from a different memory. Three women were each told that 4 pm on Friday was theirs."
+        }
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "A full inbox and empty chairs are usually the same problem: nobody could see, in one place, which slots were still free."
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "On the holiday Thursday, the opposite happened. People who asked at 1 am got no answer, assumed she was full and booked somewhere else. Her chairs sat empty while her phone filled with unread \"any space?\" messages. What changed this year comes in three small pieces. None of them needs a new phone or a new hire."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "do-the-maths",
+      "text": "Do the maths with your own numbers"
+    },
+    {
+      "type": "table",
+      "caption": "Composite example with illustrative numbers. Fill in the last column with yours.",
+      "headers": [
+        "Line",
+        "Zainab's salon",
+        "Yours"
+      ],
+      "rows": [
+        [
+          "Chairs working",
+          "3",
+          "Your figure"
+        ],
+        [
+          "Package slots per chair per day",
+          "4",
+          "Your figure"
+        ],
+        [
+          "Offer days (17 to 21 and 25 to 28 November)",
+          "9",
+          "Your figure"
+        ],
+        [
+          "Total slots (chairs × slots × days)",
+          "108",
+          "Your figure"
+        ],
+        [
+          "Package price",
+          "OMR 15",
+          "Your figure"
+        ],
+        [
+          "Value if every slot is filled",
+          "OMR 1,620",
+          "Your figure"
+        ],
+        [
+          "Slots actually filled",
+          "70",
+          "Your figure"
+        ],
+        [
+          "Value of the empty slots (38 × OMR 15)",
+          "OMR 570",
+          "Your figure"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Filling just half of those empty slots would have brought in OMR 285. That money was sitting in her unread chats. A restaurant can count tables per sitting the same way, and a gym can count places per class."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "design-the-offer",
+      "text": "Design a National Day offer built to be asked about"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Customers will ask questions about any offer, however clear it is. What you can do is make sure every obvious question has one short, true answer. Before you post, write these down:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "A name and a price: \"National Day Glow, OMR 15\"."
+          }
+        ],
+        [
+          {
+            "text": "What is included, and how long it takes (about 75 minutes)."
+          }
+        ],
+        [
+          {
+            "text": "Which days and hours it runs, including whether you open on 25 and 26 November."
+          }
+        ],
+        [
+          {
+            "text": "How to book: \"send the day and time you want, here\"."
+          }
+        ],
+        [
+          {
+            "text": "How group bookings work, and what the package does not include."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "Then turn each answer into a saved reply. WhatsApp Business calls these quick replies: you type \"/\" in a chat and pick one. Write each in English and Arabic."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "compact": true,
+      "headers": [
+        "Customer asks",
+        "Shortcut",
+        "Saved reply"
+      ],
+      "rows": [
+        [
+          "كم السعر؟ / How much?",
+          "/price",
+          "National Day Glow is OMR 15: blow-dry and henna, about 75 minutes."
+        ],
+        [
+          "Which days?",
+          "/days",
+          "17 to 21 and 25 to 28 November, 10 am to 9 pm."
+        ],
+        [
+          "Any slot Thursday?",
+          "/free",
+          "Thursday has 2 pm and 6 pm left. Shall I hold one for 30 minutes?"
+        ],
+        [
+          "Me and my sister?",
+          "/group",
+          "Yes, two chairs side by side. Send both names and your time."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "live-slot-board",
+      "text": "Turn the appointment book into a live slot board"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "This is the piece that stops double bookings and empty Thursdays. Keep one shared list of every package slot, day by day, that the whole team can open on their phones. A shared spreadsheet works. Then agree on four rules:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Nobody says \"yes, come\" until the slot is marked on the board."
+          }
+        ],
+        [
+          {
+            "text": "A slot is held for 30 minutes while the customer confirms, then released."
+          }
+        ],
+        [
+          {
+            "text": "A fully booked day gets a reply offering the next two free times, never just \"sorry, full\"."
+          }
+        ],
+        [
+          {
+            "text": "Update the board when you open, at lunch and at closing, and update the \"/free\" reply each time."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "I wasn't short of customers that week. I was short of one list everyone could see.",
+      "attribution": "Zainab, salon owner, Al Hail (composite)",
+      "persona": true
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ask-for-the-yes",
+      "text": "Ask for the yes at the moment they book"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The rush brings in dozens of new numbers. Oman's Personal Data Protection Law, which sets the rules for how businesses collect and use people's details, already required permission before you send marketing. "
+        },
+        {
+          "text": "Amendments in force since 7 September 2026",
+          "href": "https://cms.law/en/omn/legal-updates/oman-updates-its-personal-data-protection-law"
+        },
+        {
+          "text": " make it explicit: you need the person's clear consent before any advertising message, and regulations will set out how that consent is collected."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "The easiest time to ask is in the booking confirmation, while the customer is pleased. Add one line: \"Would you like us to send you our future offers? Reply YES.\" Write down who said yes and the date. Everyone else is a customer you served, not a broadcast list."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-zainab-does-now",
+      "text": "How Zainab fills the chairs this November"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "This year Zainab's package has a name, a price and five saved replies. Both stylists use the same slot board, every hold lasts 30 minutes, and every confirmation ends with the YES line. For the messages that arrive after midnight, she has a "
+        },
+        {
+          "text": "chat assistant set up for salons",
+          "href": "/industries/beauty-salons-and-spas-ai-chatbot/"
+        },
+        {
+          "text": " that answers from the same saved replies and notes the day and time each person wants. The 1 am voice note gets an answer, and the booking request is waiting for her at 9 am."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-this-means-for-you",
+      "text": "What this means for you"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "By Saturday 31 October: "
+          },
+          {
+            "text": "name and price your package, list what is included, and decide whether you open on 25 and 26 November.",
+            "strong": false
+          }
+        ],
+        [
+          {
+            "text": "By Saturday 7 November: write your saved replies in both languages and build the slot board."
+          }
+        ],
+        [
+          {
+            "text": "Around 10 November: post the offer and open bookings by chat."
+          }
+        ],
+        [
+          {
+            "text": "17 to 21 November: first peak. Update the board three times a day."
+          }
+        ],
+        [
+          {
+            "text": "22 to 24 November: chase any unconfirmed holds and refresh your status with what's still free."
+          }
+        ],
+        [
+          {
+            "text": "25 to 28 November: the four-day break. Post \"2 left Thursday\" only when it's true."
+          }
+        ],
+        [
+          {
+            "text": "After 28 November: send a thank-you and your next offer only to the people who said YES."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "tip",
+      "title": "Your two-minute check",
+      "paragraphs": [
+        "Ask a friend to message your business tonight: \"Any slot Thursday 26th, me and my sister?\"",
+        "Can whoever answers say which times are free without asking anyone? Does the reply give a price and a way to book? Will you know tomorrow whether that friend agreed to hear about offers? If any answer is no, start with the slot board."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "brand",
+      "title": "If the night shift is the problem",
+      "paragraphs": [
+        "Chatbot.OM answers WhatsApp and website chats around the clock, understands voice notes in Omani Arabic, and saves each booking request as a lead you can pick up in the morning."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "What if I'm closed on 25 and 26 November?",
+          "a": "Say so in the offer and in a saved reply, and point people to your nearest open day. \"Closed Wednesday and Thursday, open Friday from 2 pm\" gets you more bookings than silence."
+        },
+        {
+          "q": "Can I message everyone who asked about last year's offer?",
+          "a": "Only the people who clearly agreed to receive offers. Asking about a price is not the same as saying yes to marketing."
+        },
+        {
+          "q": "Does this work for a restaurant or a gym?",
+          "a": "Yes. Count tables per sitting or places per class, and use the same board and the same 30-minute holds."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "When you sell time, the chats that matter most are the ones asking what's still free. A clear offer, saved replies, one board everyone can see and a YES line in each confirmation will turn this year's two peaks into full days. Start the board this week, while November is still quiet."
+        }
+      ]
+    }
+  ]
+}
